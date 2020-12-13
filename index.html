@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>  
+    <title>andsol-interiors</title>  
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="">
@@ -39,18 +39,133 @@
 <body>
     <div class="body__wrap">
         <div class="body__header">
-            <header></header>
+            <header>
+                <div class="header__brand">
+                    <a href="index.html">
+                        <img src="img/brand/logo.png" alt="andsol-interiors">
+                    </a>
+                </div>
+                <div class="header__button">
+                    <span class="btn__primary" data-toggle="modal" data-target="#enquiryForm">Enquiry form</span>
+                    
+                </div>
+            </header>
         </div>
         <!-- end body header -->
 
-        <div class="body__banner"></div>
+        <div class="body__banner">
+            <div class="desktop__banner">
+                <img src="img/images/image-1.png" alt="">
+            </div>
+            <div class="mobile__banner"></div>
+        </div>
         <!-- end body banner -->
 
-        <div class="body__container"></div>
+        <div class="body__container">
+            <main>
+                <section class="section__why">
+                    <div class="section__why-image">
+
+                    </div>
+                    <div class="section__why-content">
+                        <article>
+                            <header>
+                                <h2>
+                                    Why andsol-interiors
+                                </h2>
+                            </header>
+                            <div class="section__body">
+                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing 
+                                elit. Veniam optio at officiis alias! Officia mollitia perspiciatis, nostrum sed beatae itaque.</p>
+                                <ul>
+                                    <li class="section__why-list">
+                                        <div class="left__section">
+                                            <i class="fa fa-users" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="right__section">
+                                            <header>
+                                                <h4>Professional team</h4>
+                                            </header>
+                                            <p>Our team includes only the best decorators and interior designers in the industry.</p>
+                                        </div>
+                                    </li>
+                                    <li class="section__why-list">   <div class="left__section">
+                                        <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="right__section">
+                                        <header>
+                                            <h4>Unusual ideas</h4>
+                                        </header>
+                                        <p>Our designers generate various yet always original ideas that will surely fit your needs.</p>
+                                    </div>
+                                    </li>
+                                    <li class="section__why-list">
+                                        <div class="left__section">
+                                            <i class="fa fa-heart-o" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="right__section">
+                                            <header>
+                                                <h4>Made with Respect</h4>
+                                            </header>
+                                            <p>All our work is built around respect to our clients, great service, and creativity.</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </article>
+                    </div>
+                </section>
+            </main>
+        </div>
         <!-- end body container -->
 
         <div class="body__footer"></div>
         <!-- end body footer -->
+        
+<!-- Modal form -->
+<div class="modal fade" id="enquiryForm" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <form action="form_1.php" method="POST" class="banner__form w-100 py-0">
+
+            <div class="modal-body">
+            
+                    <!-- <header class="text-center h4 pb-3">
+                    Enquire Form
+                    </header> -->
+                    <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" class="form-control" placeholder="Your name" id="name" aria-describedby="emailHelp">
+                    </div>
+                    <div class="form-group">
+                    <label for="tel">Mobile no</label>
+                    <input type="tel" class="form-control" id="tel" placeholder="Your mobile" aria-describedby="emailHelp">
+                    </div>
+                    <div class="form-group">
+                    <label for="email">Email address</label>
+                    <input type="email" class="form-control" id="email"  placeholder="Your email" aria-describedby="emailHelp">
+                    </div>
+                    <input type="hidden" name="location" value="Banashankari">
+
+                    <div class="text-center">
+                    </div>
+            
+
+            </div>
+            <div class="modal-footer">
+                <input type="submit" class="btn__primary btn">
+            </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  
     </div>
 
     
