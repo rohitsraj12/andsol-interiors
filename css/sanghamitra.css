@@ -141,17 +141,40 @@
 .section__feature .section__feature-list{
     width: 33%;
     padding: 10px;
-    list-style: square;
 }
 
+.section__feature .section__feature-list i{
+    padding-right: 10px;
+}
+
+.section__consultation{
+    padding-top: 60px;
+    background-color: #e7e7e7;
+}
+.consultation__body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.wrap__icon {
+    display: inline-block;
+    font-size: 30px;
+    width: 70px;
+    height: 70px;
+    margin-bottom: 30px;
+    border: 3px solid red;
+    border-radius: 4px;
+}
+
+.wrap__icon i{
+    line-height: 70px;
+}
 .section__form{
     margin: 0 150px;
     padding: 60px;
     width: 80%;
     background-color: #5c5c5c;
-    position: absolute;
     bottom: 340px;
-    z-index: 2;
 }
 
 .section__form form{
@@ -179,7 +202,6 @@
 
 .body__footer{
     background-color: #212529;
-    position: relative;
 }
 
 .section__footer-top{
