@@ -1,0 +1,36 @@
+@media (min-width: 769px){
+    
+  .section__why {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+  .section__why-image, .section__why-content {
+        width: 50%;
+    }
+
+    
+.footer__form{
+    width: 100%;
+    padding: 30px;
+    background-color: #5c5c5c;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: absolute;
+    top: -50px;
+ }
+}
+
+@media (min-width: 1024px){
+
+}
+
+@media (max-width: 768px){
+    
+}
+
+@media (max-width: 574px){
+
+}
