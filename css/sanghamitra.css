@@ -63,16 +63,8 @@
   /* section why */
 
   .section__why {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-      padding: 60px 0;
-  }
-
-  .section__why-image, .section__why-content {
-      width: 50%;
-  }
-
+    padding: 60px 0;
+}
   .section__why-list{
       display: flex;
       flex-direction: row;
@@ -147,7 +139,7 @@
 }
 
 .section__consultation{
-    padding-top: 60px;
+    padding: 60px 0 100px;
     background-color: #e7e7e7;
 }
 .consultation__body{
@@ -161,40 +153,31 @@
     width: 70px;
     height: 70px;
     margin-bottom: 30px;
-    border: 3px solid red;
+    border: 1px solid var(--color-theme);
     border-radius: 4px;
 }
 
 .wrap__icon i{
     line-height: 70px;
+    color: var(--color-theme);
 }
 .section__form{
-    margin: 0 150px;
-    padding: 60px;
-    width: 80%;
-    background-color: #5c5c5c;
-    bottom: 340px;
+    
 }
 
 .section__form form{
     margin-right: 30px;
 }
 
-.footer__form{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
 .section__form form input{
     width: 100%;
-    padding: 4px 10px 9px;
     margin-right: 10px;
     font-size: 18px;
-    line-height: 50px;
     border-radius: 5px;
     border: none;
     
 }
+
 
 
 /* body footer */
@@ -206,14 +189,14 @@
 .section__footer-top{
     width: 80%;
     margin: 0 auto;
-    padding: 120px 0 0;
+    padding: 80px 0 0;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
   }
 
   .body__footer header{
-    padding: 2rem 0;
+    padding: 20px 0;
     font-size: 1rem;
     color: var(--color-white);
     font-weight: 700;
@@ -221,15 +204,24 @@
 
   .section__footer {
     width: 20%;
+    padding-bottom: 20px;
   }
 
   .section__content{
-    padding: 0 0 3rem;
     color: var(--color-white);
   }
 
+
+  .section__content .social__link{
+    color: var(--color-theme);
+  }
+  .section__content:hover{
+      color: #e7e7e7;
+  }
   .section__footer-bottom{
-    padding: 0 0 40px;
+    padding: 10px 0;
     color: var(--color-white);
     text-align: center;
+    border-top: 1px solid #14181b;
   }
+
