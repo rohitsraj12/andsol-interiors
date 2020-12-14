@@ -131,7 +131,6 @@
 }
 
 .section__feature{
-    margin-bottom: 120px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
