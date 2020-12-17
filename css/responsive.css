@@ -1,20 +1,37 @@
 @media (min-width: 769px){
-    
-  .section__why {
+    .mobile__banner{
+        display: none;
+    }
+    .section__why .container{
         display: flex;
         flex-direction: row;
         justify-content: space-between;
     }
-    
-  .section__why-image, .section__why-content {
+
+    .section__why-image, .section__why-content {
         width: 50%;
     }
+        
+    .section__feature{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
 
-    
-.section__form form{
-    margin-right: 30px;
-    position: absolute;
-}
+    }
+    .section__feature .section__feature-list{
+        width: 33%;
+    }
+        
+    .consultation__body{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .section__form form{
+        margin-right: 30px;
+        /* position: absolute; */
+    }
     .section__form .container{
         position: relative;
     }
@@ -28,7 +45,7 @@
         position: absolute;
         top: -50px;
     }
-    
+
     .section__footer-top{
         width: 80%;
         margin: 0 auto;
@@ -37,10 +54,10 @@
         flex-direction: row;
         justify-content: space-between;
     }
-    
-  .section__footer {
+
+    .section__footer {
     width: 20%;
-  }
+    }
 
 
 }
@@ -50,11 +67,26 @@
 }
 
 @media (max-width: 768px){
-    
+    .desktop__banner{
+        display: none;
+    }
     .section__footer-top{
         width: 95%;
         margin: 0 auto;
         padding: 50px 0 0;
+    }
+    
+    .book__icon{
+        margin-bottom: 40px;
+    }
+    .section__form{
+        display: none;
+    }
+    .section__type .section__body img{
+        height: 350px;
+        width: 350px;
+        margin: 0 auto;
+
     }
 }
 
