@@ -70,6 +70,21 @@
     .desktop__banner{
         display: none;
     }
+    .header__button{
+        width: 100%;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        z-index: 99;
+      }
+    .header__button .btn__primary{
+        width: 100%;
+
+    }
+    .mobile__banner img{
+        width: 100%;
+    }
     .section__footer-top{
         width: 95%;
         margin: 0 auto;
@@ -91,5 +106,8 @@
 }
 
 @media (max-width: 574px){
-
+    
+    .section__why-image{
+        display: none;
+    }
 }
