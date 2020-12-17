@@ -122,15 +122,11 @@
     content: "03";
 }
 
-.section__feature{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap: wrap;
-
+.section__type .section__body img{
+  width: 100%;
 }
+
 .section__feature .section__feature-list{
-    width: 33%;
     padding: 10px;
 }
 
@@ -141,11 +137,6 @@
 .section__consultation{
     padding: 60px 0 100px;
     background-color: #e7e7e7;
-}
-.consultation__body{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
 }
 .wrap__icon {
     display: inline-block;
@@ -161,11 +152,6 @@
     line-height: 70px;
     color: var(--color-theme);
 }
-.section__form{
-    
-}
-
-
 .section__form form input{
     width: 100%;
     margin-right: 10px;
@@ -174,7 +160,6 @@
     border: none;
     
 }
-
 
 
 /* body footer */
