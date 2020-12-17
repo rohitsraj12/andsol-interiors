@@ -103,6 +103,9 @@
         margin: 0 auto;
 
     }
+    .body__footer{
+        padding-bottom: 40px;
+    }
 }
 
 @media (max-width: 574px){
