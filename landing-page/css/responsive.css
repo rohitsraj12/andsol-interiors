@@ -1,0 +1,116 @@
+@media (min-width: 769px){
+    .mobile__banner{
+        display: none;
+    }
+    .section__why .container{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .section__why-image, .section__why-content {
+        width: 50%;
+    }
+        
+    .section__feature{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+
+    }
+    .section__feature .section__feature-list{
+        width: 33%;
+    }
+        
+    .consultation__body{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .section__form form{
+        margin-right: 30px;
+        /* position: absolute; */
+    }
+    .section__form .container{
+        position: relative;
+    }
+    .footer__form{
+        width: 100%;
+        padding: 30px;
+        background-color: #5c5c5c;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        position: absolute;
+        top: -50px;
+    }
+
+    .section__footer-top{
+        width: 80%;
+        margin: 0 auto;
+        padding: 80px 0 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .section__footer {
+    width: 20%;
+    }
+
+
+}
+
+@media (min-width: 1024px){
+
+}
+
+@media (max-width: 768px){
+    .desktop__banner{
+        display: none;
+    }
+    .header__button{
+        width: 100%;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        z-index: 99;
+      }
+    .header__button .btn__primary{
+        width: 100%;
+
+    }
+    .mobile__banner img{
+        width: 100%;
+    }
+    .section__footer-top{
+        width: 95%;
+        margin: 0 auto;
+        padding: 50px 0 0;
+    }
+    
+    .book__icon{
+        margin-bottom: 40px;
+    }
+    .section__form{
+        display: none;
+    }
+    .section__type .section__body img{
+        height: 350px;
+        width: 350px;
+        margin: 0 auto;
+
+    }
+    .body__footer{
+        padding-bottom: 40px;
+    }
+}
+
+@media (max-width: 574px){
+    
+    .section__why-image{
+        display: none;
+    }
+}
