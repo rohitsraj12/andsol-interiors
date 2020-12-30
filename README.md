@@ -1,1 +1,0 @@
-# andsol-interiors-landing-page
