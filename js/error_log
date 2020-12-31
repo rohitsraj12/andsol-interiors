@@ -1,6 +1,0 @@
-[27-Sep-2020 17:34:57 UTC] PHP Warning:  file_get_contents(): stream does not support seeking in /home/andsolinteriors/public_html/js/mail.php on line 42
-[27-Sep-2020 17:34:57 UTC] PHP Warning:  file_get_contents(): Failed to seek to position -1 in the stream in /home/andsolinteriors/public_html/js/mail.php on line 42
-[27-Sep-2020 17:47:47 UTC] PHP Fatal error:  Cannot use [] for reading in /home/andsolinteriors/public_html/js/mail.php on line 38
-[27-Sep-2020 17:50:06 UTC] PHP Fatal error:  Cannot use [] for reading in /home/andsolinteriors/public_html/js/mail.php on line 38
-[27-Sep-2020 17:50:21 UTC] PHP Fatal error:  Cannot use [] for reading in /home/andsolinteriors/public_html/js/mail.php on line 38
-[27-Sep-2020 17:52:03 UTC] PHP Fatal error:  Cannot use [] for reading in /home/andsolinteriors/public_html/js/mail.php on line 38
