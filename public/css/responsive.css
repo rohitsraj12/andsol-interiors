@@ -1,0 +1,38 @@
+@media (min-width: 769px){
+    .banner__mobile{
+        display: none;
+    }
+
+    .body__header{
+        width: 100%;
+        background-color: #00000080;
+        position: absolute;
+    }
+    .body__header header{
+        width: 80%;
+        margin: 0 auto;
+        padding: 10px 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+    .nav__list{
+        display: inline;
+    }
+    .nav__list + li{
+        margin-left: 30px;
+    }
+    .banner__desktop img{
+        height: 100vh;
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px){
+    .banner__desktop{
+        display: none;
+    }
+
+
+}
