@@ -1,4 +1,7 @@
 @media (min-width: 769px){
+    .hamburger{
+        display: none;
+    }
     .banner__mobile{
         display: none;
     }
@@ -30,6 +33,24 @@
 }
 
 @media (max-width: 768px){
+    
+    .body__header header{
+        width: 80%;
+        margin: 0 auto;
+        padding: 10px 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .header__nav ul{
+        display: none;
+        
+    }
+    .hamburger i{
+        font-size: 30px;
+        color: #fc721e;
+    
+    }
     .banner__desktop{
         display: none;
     }
