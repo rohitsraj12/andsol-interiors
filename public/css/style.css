@@ -68,6 +68,7 @@ a:hover{
 .offer__icon{
     height: 40px;
     fill: #fc721e;
+  
 }
 .offer__header{
     padding: 15px 0 ;
@@ -103,6 +104,10 @@ a:hover{
 
 .footer__article-header{
     margin-bottom: 40px;
+    /* text-align: center; */
+    font-family: 'Barlow', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 500;
 }
 .footer__article-body-top p{
     padding: 0 0 20px;
@@ -111,11 +116,11 @@ a:hover{
 .footer__social{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: end;
 }
 
 .footer__social-link {
-    padding: 20px;
+    padding-right: 50px;
 }
 
 .footer__social-link i{
@@ -140,6 +145,7 @@ a:hover{
 
 .footer__quick-links-list a, .footer__contact a{
     color: #212529;
+    transition: 300ms;
 }
 .footer__quick-links-list a:hover, .footer__contact a:hover, .footer__social-link i:hover{
     color: #fc721e;
