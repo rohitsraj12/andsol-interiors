@@ -69,7 +69,7 @@
                         <!-- end wrap header -->
                         <div class="wrap__contact-section">
                             <div class="row px-3">
-                                <article class="col-sm-4 py-4 bg-dark text-light">
+                                <article class="col-sm-4 py-4 contact__section-left text-light">
                                     <!-- <div class="article__header pb-4">
                                         <h4 class="section__sub-header">Contact details</h4>
                                     </div> -->
@@ -123,7 +123,7 @@
                                         </ul>
                                     </div>
                                 </article>
-                                <article class="col-sm-8 py-4">
+                                <article class="col-sm-8 py-4 contact__section-right">
                                     <!-- <div class="article__header">
 
                                         <h4 class="section__sub-header">send message us</h4>
