@@ -157,7 +157,7 @@ a:hover{
 .btn__primary{
     padding: 10px;
     border: 2px solid #fc721e;
-    background-color: white;
+    background-color: #ffffff;
 }
 
 .btn__primary:hover{
@@ -172,6 +172,9 @@ a:hover{
     #contact page
 
 ==========================================*/
+.contact__section-left{
+    background-color: #666666;
+}
 .span__header{
     font-size: 20px;
     font-weight: 600;
@@ -182,7 +185,7 @@ a:hover{
 .contact__details li{
     display: flex;
     flex-direction: row;
-    justify-content: end;
+    justify-content: flex-start;
 }
 .contact__details-icon i{
     font-size: 35px;
@@ -197,7 +200,7 @@ a:hover{
 }
 .form-control{
     position: relative;
-    padding-left: 30px;
+    padding-left: 35px;
 }
 .contact__form-icon{
     font-size: 15px;
@@ -207,4 +210,21 @@ a:hover{
     bottom: 11px;
     z-index: 1;
     padding: 0 10px 0 5px;
+}
+
+/* =======================================
+
+    #about us page
+
+==========================================*/
+.wrap__about-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.about__section-left .about__image img{
+    width: 100%;
+}
+.about__section-left, .about__section-right{
+    padding: 30px;
 }
