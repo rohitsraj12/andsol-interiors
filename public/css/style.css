@@ -17,6 +17,7 @@ a{
 
 a:hover{
     text-decoration: none;
+    color: #fc721e;
 }
 
 .wrap__container{
@@ -161,5 +162,49 @@ a:hover{
 
 .btn__primary:hover{
     background-color: #fc721e;
+    color: #ffffff;
     
+}
+
+
+/* =======================================
+
+    #contact page
+
+==========================================*/
+.span__header{
+    font-size: 20px;
+    font-weight: 600;
+}
+.wrap__contact-section{
+    box-shadow:  0px 5px 20px 0px rgba(0,0,0,0.15);;
+}
+.contact__details li{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+.contact__details-icon i{
+    font-size: 35px;
+    color: #fc721e;
+    padding: 0 20px 0 0;
+}
+.contact__details-link{
+    display: block;
+}
+.contact__details-link:hover{
+    color: #fc721e;
+}
+.form-control{
+    position: relative;
+    padding-left: 30px;
+}
+.contact__form-icon{
+    font-size: 15px;
+    color: #fc721e;
+    position: absolute;
+    left: 19px;
+    bottom: 11px;
+    z-index: 1;
+    padding: 0 10px 0 5px;
 }
