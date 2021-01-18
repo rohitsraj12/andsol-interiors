@@ -228,3 +228,19 @@ a:hover{
 .about__section-left, .about__section-right{
     padding: 30px;
 }
+.section__right-footer .design__types{
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.design__types-list{
+
+}
+.design__types-list:not(:last-child)::after{
+    content: "|";
+    margin:0 10px;
+}
+.testimonial__section > article{
+    margin: 30px;
+}
