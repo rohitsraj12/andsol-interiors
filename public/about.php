@@ -15,30 +15,28 @@
 <body>
     <div class="body__wrap">
         <div class="body__header">
-           
-                <header>
-                    <div class="header__brand">
-                        <a href="index.php">
-                            <img src="img/brand/andsol_interiors.jpeg" height="80px" alt="andsol interiors logo">
-                        </a>
-                    </div>
-                    <!-- end header brand --> 
-                    <div class="hamburger">
-                            <a href=""><i class="fa fa-bars" aria-hidden="true"></i></a>
-                    </div>
-                    <nav class="header__nav">
-                       
-                        <ul>
-                            <li class="nav__list"><a href="index.php" class="nav__link">HOME</a></li>
-                            <li class="nav__list"><a href="about.php" class="nav__link">ABOUT US</a></li>
-                            <li class="nav__list"><a href="project.php" class="nav__link">PROJECTS</a></li>
-                            <li class="nav__list"><a href="service.php" class="nav__link">SERVICES</a></li>
-                            <li class="nav__list"><a href="contact.php" class="nav__link">CONTACT US</a></li>
-                        </ul>
-                    </nav>
-                    <!-- end header nav  -->
-                </header>
-            
+            <header>
+                <div class="header__brand">
+                    <a href="index.php">
+                        <img src="img/brand/andsol_interiors.jpeg" height="80px" alt="andsol interiors logo">
+                    </a>
+                </div>
+                <!-- end header brand --> 
+                <div class="hamburger">
+                        <a href=""><i class="fa fa-bars" aria-hidden="true"></i></a>
+                </div>
+                <nav class="header__nav">
+                    
+                    <ul>
+                        <li class="nav__list"><a href="index.php" class="nav__link">HOME</a></li>
+                        <li class="nav__list"><a href="about.php" class="nav__link">ABOUT US</a></li>
+                        <li class="nav__list"><a href="project.php" class="nav__link">PROJECTS</a></li>
+                        <li class="nav__list"><a href="service.php" class="nav__link">SERVICES</a></li>
+                        <li class="nav__list"><a href="contact.php" class="nav__link">CONTACT US</a></li>
+                    </ul>
+                </nav>
+                <!-- end header nav  -->
+            </header>
         </div>
         <!-- end body header -->
 
@@ -68,23 +66,68 @@
                         </div>
                         <!-- end wrap header -->
                         <div class="wrap__about-section">
-                            <div class="about__section-left">
-                                <figure class="about__image">
-                                    <img src="img/project/about.jpeg" alt="about us">
-                                </figure>
-                            </div>
-                            <div class="about__section-right">
-                                <div class="section__right-header">
-                                    <h2 class="section__header">
-                                        Best Designers Architectures for You
-                                    </h2>
+                                <div class="about__section-left">
+                                    <figure class="about__image">
+                                        <img src="img/project/about.jpeg" alt="about us">
+                                    </figure>
                                 </div>
-                                <div class="section__right-body">
-                                    <div class="about__deginers">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore unde vel obcaecati magnam amet animi deleniti maiores id aliquam exercitationem eos quos dolore at architecto quis veritatis porro quam, recusandae beatae eum minima iste odio. Vitae, hic ut nulla dolores id consequuntur totam dolorum doloremque! Recusandae possimus saepe quisquam provident!</p>
+                                <div class="about__section-right">
+                                    <div class="section__right-header">
+                                        <h2 class="section__header">
+                                            Best Designers Architectures for You
+                                        </h2>
+                                    </div>
+                                    <div class="section__right-body">
+                                        <div class="about__deginers">
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore unde vel obcaecati magnam amet animi deleniti maiores id aliquam exercitationem eos quos dolore at architecto quis veritatis porro quam, recusandae beatae eum minima iste odio. Vitae, hic ut nulla dolores id consequuntur totam dolorum doloremque! Recusandae possimus saepe quisquam provident!</p>
+                                        </div>
+                                    </div>
+                                    <div class="section__right-footer">
+                                        <ul class="design__types">
+                                            <li class="design__types-list">Architecture</li>
+                                            <li class="design__types-list">Interior design</li>
+                                            <li class="design__types-list">Furniture</li>
+                                        </ul>
+                                        <button class="btn btn__primary">Read More</button>
                                     </div>
                                 </div>
-                            </div>
+                        </div>
+                       
+                    </div>
+                </section>
+                <section class="section__offer mb-5  bg-dark text-light py-5">
+                    <div class="container">
+                    <div class="wrap__header py-4">
+                        <h2 class="section__header">
+                            Testimonials
+                        </h2>
+                    </div> 
+                        <div class="wrap__testimonial-section">
+                          
+                            <h4 class="section__sub-header text-center pb-4">
+                                What people say?
+                            </h4> 
+                            <div class="testimonial__section d-flex justify-content-around">
+                                    <article class="text-center border">
+                                        <div class="article__header">
+                                            <span class="d-block py-4">peter jefferson</span>
+                                            <img class="" src="img/brand/andsol_interiors.jpeg" width="50px" height="50px" alt="image">
+                                        </div>
+                                        <div class="article__body py-4">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
+                                        </div>
+                                    </article>
+                                
+                                    <article class="text-center border">
+                                        <div class="article__header">
+                                            <span class="d-block py-4">peter jefferson</span>
+                                            <img class="" src="img/brand/andsol_interiors.jpeg" width="50px" height="50px" alt="image">
+                                        </div>
+                                        <div class="article__body py-4">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
+                                        </div>
+                                    </article>
+                                </div>
                         </div>
                     </div>
                 </section>
