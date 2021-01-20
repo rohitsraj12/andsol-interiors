@@ -77,7 +77,7 @@
                                         <ul class="contact__details">
                                             <li class="pb-3">
                                                 <div class="contact__details-icon">
-                                                    <i class="fa fa-map-marker mr-3" aria-hidden="true"></i> 
+                                                    <i class="fa fa-map-marker" aria-hidden="true"></i> 
                                                 </div>
                                                 <div class="pl-3">
                                                     <span class="mb-2 d-block span__header">Our office address:</span>
@@ -89,7 +89,7 @@
                                             </li>
                                             <li class="pb-3">
                                                 <div class="contact__details-icon">
-                                                    <i class="fa fa-envelope-o mr-3" aria-hidden="true"></i>
+                                                    <i class="fa fa-envelope-o" aria-hidden="true"></i>
                                                 </div>
                                                 <div>
                                                     <span class="mb-2 d-block span__header">General enquiries:</span>
@@ -100,10 +100,10 @@
                                             </li>
                                             <li class="pb-3">
                                                 <div class="contact__details-icon">
-                                                    <i class="fa fa-phone mr-3" aria-hidden="true"></i>
+                                                    <i class="fa fa-phone" aria-hidden="true"></i>
                                                 
                                                 </div>
-                                                <div class="pl-1">
+                                                <div class="">
                                                     <span class="mb-2 d-block span__header">Call us:</span>
                                                     <a class="contact__details-link text-light" class="" href="tel:9945869856" target="_blank">+91-9945869856</a>
                                                     <a class="contact__details-link text-light" class="" href="tel:9538832255" target="_blank">+91-9538832255</a>
@@ -112,9 +112,9 @@
                                             </li>
                                             <li class="pb-3">
                                                 <div class="contact__details-icon">
-                                                    <i class="fa fa-clock-o mr-3" aria-hidden="true"></i>
+                                                    <i class="fa fa-clock-o" aria-hidden="true"></i>
                                                 </div>
-                                                    <div class="pl-1">
+                                                    <div class="">
                                                     <span class="mb-2 d-block span__header">Our timing:</span>
                                                     <span > Mon - Sun : 09:30 AM - 06:00 PM</span>
                                                     </div>
