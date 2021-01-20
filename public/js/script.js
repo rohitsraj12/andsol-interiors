@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $(".hamburger").click(function(){
-    $(".header__nav ul").show().css("background-color", "#fc721e");
-    });
+   $(".service__section-article").hover(function(){
+       $(this).find(".service__detail").hide();
+   });
 });
