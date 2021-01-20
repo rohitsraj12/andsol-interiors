@@ -65,7 +65,9 @@
                             </h2>
                         </div>
                         <!-- end wrap header -->
-                        <div class="wrap__about-section">
+                    </div>
+                    <div class="container">
+                         <div class="wrap__about-section">
                                 <div class="about__section-left">
                                     <figure class="about__image">
                                         <img src="img/project/about.jpeg" alt="about us">
@@ -92,42 +94,44 @@
                                     </div>
                                 </div>
                         </div>
-                       
-                    </div>
+                    </div>                   
                 </section>
-                <section class="section__offer mb-5  bg-dark text-light py-5">
+
+                <section class="section__offer mb-5 py-5">
                     <div class="container">
-                    <div class="wrap__header py-4">
-                        <h2 class="section__header">
-                            Testimonials
-                        </h2>
-                    </div> 
-                        <div class="wrap__testimonial-section">
-                          
+                        <div class="wrap__header py-4">
+                            <h2 class="section__header">
+                                Testimonials
+                            </h2>
+                        </div> 
+                    </div>
+                    
+                    <div class="wrap__testimonial-section bg-dark text-light py-4">
+                        <div class="container ">
                             <h4 class="section__sub-header text-center pb-4">
                                 What people say?
                             </h4> 
                             <div class="testimonial__section d-flex justify-content-around">
-                                    <article class="text-center border">
-                                        <div class="article__header">
-                                            <span class="d-block py-4">peter jefferson</span>
-                                            <img class="" src="img/brand/andsol_interiors.jpeg" width="50px" height="50px" alt="image">
-                                        </div>
-                                        <div class="article__body py-4">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
-                                        </div>
-                                    </article>
-                                
-                                    <article class="text-center border">
-                                        <div class="article__header">
-                                            <span class="d-block py-4">peter jefferson</span>
-                                            <img class="" src="img/brand/andsol_interiors.jpeg" width="50px" height="50px" alt="image">
-                                        </div>
-                                        <div class="article__body py-4">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
-                                        </div>
-                                    </article>
-                                </div>
+                                <article class="text-center border">
+                                    <div class="article__header">
+                                        <span class="d-block py-4">peter jefferson</span>
+                                        <img class="" src="img/brand/andsol_interiors.jpeg" width="50px" height="50px" alt="image">
+                                    </div>
+                                    <div class="article__body py-4">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
+                                    </div>
+                                </article>
+                            
+                                <article class="text-center border">
+                                    <div class="article__header">
+                                        <span class="d-block py-4">peter jefferson</span>
+                                        <img class="" src="img/brand/andsol_interiors.jpeg" width="50px" height="50px" alt="image">
+                                    </div>
+                                    <div class="article__body py-4">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
+                                    </div>
+                                </article>
+                            </div>
                         </div>
                     </div>
                 </section>
