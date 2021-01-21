@@ -95,6 +95,41 @@ a:hover{
 .offer__body ul li:last-child::after{
     content: "";
 }
+
+.home__about-section, .home__about-image-section{
+    padding: 30px;
+}
+.booking__section-header, .booking__section-footer{
+    text-align: center;
+}
+.wrap__booking-section{
+    height: 400px;
+    position: relative;
+}
+.wrap__booking-section .figure-1{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+.wrap__booking-section .figure-2{
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
+.home__service-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.home__service-body article{
+    width: 27%;
+    margin: 30px;
+    padding: 30px;
+}
+
 /* =======================================
 
     #footer section
