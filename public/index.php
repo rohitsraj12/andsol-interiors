@@ -69,7 +69,7 @@
                         <!-- end wrap header -->
                     </div>
                     <div class="container">
-                        <section class="row mb-5">
+                        <section class="row my-5">
                             <article class="col-sm-3">
                                 <figure class="offer__figure" class="offer__figure">
                                     <?xml version="1.0" encoding="iso-8859-1"?>
@@ -218,7 +218,7 @@
                             </figure>
                             <div class="container">
                                  <div class="booking__section-header">
-                                    <h2 class="section__header py-5">
+                                    <h2 class="section__sub-header py-4">
                                         Your dream home is just a click away
                                     </h2>
                                 </div>
