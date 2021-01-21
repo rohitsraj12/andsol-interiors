@@ -129,7 +129,7 @@
                                         <h4 class="section__sub-header">send message us</h4>
                                     </div> -->
                                     <div class="article__body">
-                                    <form class="row g-3" method="POST" action="">
+                                    <form class="row g-3 px-5" method="POST" action="">
                                         <div class="col-12 pt-3">
                                             <label for="inputName" class="form-label">Name</label>
                                             <i class="fa fa-user-o contact__form-icon" aria-hidden="true"></i>
