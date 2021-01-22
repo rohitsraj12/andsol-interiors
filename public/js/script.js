@@ -1,4 +1,7 @@
 $(document).ready(function(){
+    $(".hamburger").click(function(){
+        $(".header__nav").slideDown();
+    });
     $(".faq__header").click(function(){
         $(this).find(i).toggleClass(".fa-sort-desc");
         $(this).find(i).toggleClass(".fa-sort-asc");
