@@ -212,9 +212,9 @@ a:hover{
     justify-content: flex-start;
 }
 .contact__details-icon i{
-    font-size: 35px;
+    font-size: 25px;
     color: #fc721e;
-    padding: 0 20px 0 0;
+    padding: 0 15px 0 30px;
 }
 .contact__details-link{
     display: block;
@@ -231,7 +231,7 @@ a:hover{
     color: #fc721e;
     position: absolute;
     left: 19px;
-    bottom: 11px;
+    top: 61px;
     z-index: 1;
     padding: 0 10px 0 5px;
 }
@@ -273,8 +273,11 @@ a:hover{
 
 ==========================================*/
 
-.testimonial__section > article{
+.testimonial__section-content > article{
     margin: 30px;
+}
+.testimonial__section-content .article__body{
+    padding: 0 20px 20px;
 }
 
 /* =======================================
