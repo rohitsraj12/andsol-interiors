@@ -38,7 +38,7 @@
                                 </div>
                                 <div class="about__section-right">
                                     <div class="section__right-header">
-                                        <h2 class="section__header">
+                                        <h2 class="section__sub-header">
                                             Best Designers Architectures for You
                                         </h2>
                                     </div>
