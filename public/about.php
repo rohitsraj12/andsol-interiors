@@ -204,7 +204,7 @@
                                             <a href="contact.php">Contact us</a>
                                         </li>
                                         <li class="footer__quick-links-list">
-                                            <a href="contact.php">FAQs</a>
+                                            <a href="faq.php">FAQs</a>
                                         </li>
                                         <li class="footer__quick-links-list">
                                             <a href="contact.php">Site map</a>
