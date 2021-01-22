@@ -285,16 +285,6 @@ a:hover{
     #service page
 
 ==========================================*/
-.service__section{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-.service__section-article{
-    width: 33%;
-    padding: 20px;
-}
 .wrap__section-article{
     position: relative;
 }
@@ -303,6 +293,7 @@ a:hover{
     height: 350px;
 }
 .service__detail{
+    height: 310px;
     margin: 20px;
     position: absolute;
     bottom: 0;
