@@ -329,3 +329,33 @@ a:hover{
 .service__section-article:hover .service__detail{
     display: none;
 }
+
+/* =======================================
+
+    #faq page
+
+==========================================*/
+.faq__section-article{
+    background-color: #e7e7e7;
+    margin: 30px;
+}
+.faq__header{
+    padding: 10px;
+    position: relative;
+}
+.faq__icon{
+    padding: 10px;
+    text-align: center;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.fa-sort-asc{
+    display: none;
+}
+.faq__footer{
+    padding: 10px;
+    display: none;
+    background-color: #e7e7e7;
+
+}
