@@ -19,7 +19,7 @@
 
         <div class="body__container">
             <main>
-                <section class="section__offer py-5">
+                <section class="section__services py-5">
                     <div class="container">
                         <div class="wrap__header py-4">
                             <h2 class="section__header">
@@ -30,7 +30,7 @@
                     </div>  
                     <div class="container">
                         <div class="wrap__service-section">
-                            <div class="service__section">
+                            <div class="service__section-content">
                                 <article class="service__section-article">
                                     <div class="wrap__section-article">
                                         <figure class="service__image">
