@@ -35,7 +35,15 @@ a:hover{
     font-size: 26px;
     font-weight: 500;
 }
-
+.top__space-p{
+    padding-top: 6rem;
+}
+.bottom__space-p{
+    padding-bottom: 6rem;
+}
+.space__py{
+    padding: 6rem 0;
+}
 /* =======================================
 
     #header section
@@ -74,7 +82,6 @@ a:hover{
   
 }
 .offer__header{
-    padding: 15px 0 ;
     text-align: center;
     font-family: 'Barlow', sans-serif;
     font-size: 1.1rem;
@@ -96,38 +103,18 @@ a:hover{
     content: "";
 }
 
-.home__about-section, .home__about-image-section{
-    padding: 30px;
+.section__about-us{
+    padding: 30px 0;
 }
+
 .booking__section-header, .booking__section-footer{
     text-align: center;
-}
-.wrap__booking-section{
-    height: 400px;
-    position: relative;
-}
-.wrap__booking-section .figure-1{
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: -1;
-}
-.wrap__booking-section .figure-2{
-    position: absolute;
-    right: 0;
-    top: 0;
-    z-index: -1;
 }
 .home__service-body{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
-}
-.home__service-body article{
-    width: 28%;
-    margin: 25px;
-    padding: 30px;
 }
 
 /* =======================================
