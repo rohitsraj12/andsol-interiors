@@ -3,12 +3,25 @@
 ?>
         <div class="body__banner">
             <div class="wrap__banner">
-                <div class="banner__mobile">
+                <!-- <div class="banner__mobile">
 
-                </div>
+                </div> -->
                 <!-- end banner mobile -->
                 <div class="banner__desktop">
-                    <img src="img/banner/banner.jpg" alt="andsol interiors banner">
+                    <!-- <img src="img/banner/banner.jpg" alt="andsol interiors banner"> -->
+                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="img/banner/banner.jpg" class="d-block w-100" alt="img/banner/banner.jpg">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="img/project/service.jpeg" class="d-block w-100" alt="img/banner/banner.jpg">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="img/banner/banner.jpg" class="d-block w-100" alt="img/banner/banner.jpg">
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <!-- end desktop banner -->
             </div>
