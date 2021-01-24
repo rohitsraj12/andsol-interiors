@@ -19,22 +19,22 @@
                                     <div class="footer__article-body-bottom">
                                         <ul class="footer__social">
                                             <li class="footer__social-list">
-                                                <a href="#" class="footer__social-link">
+                                                <a href="#" target="_blank" class="footer__social-link">
                                                     <i class="fa fa-facebook" aria-hidden="true"></i>
                                                 </a>
                                             </li>
                                             <li class="footer__social-list">
-                                            <a href="#" class="footer__social-link">
+                                            <a href="#" target="_blank" class="footer__social-link">
                                                 <i class="fa fa-whatsapp" aria-hidden="true"></i>
                                             </a>
                                             </li>
                                             <li class="footer__social-list">
-                                                <a href="#" class="footer__social-link">
+                                                <a href="#" target="_blank" class="footer__social-link">
                                                     <i class="fa fa-twitter" aria-hidden="true"></i>
                                                 </a>
                                             </li>
                                             <li class="footer__social-list">
-                                                <a href="#" class="footer__social-link">
+                                                <a href="#" target="_blank" class="footer__social-link">
                                                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                                                 </a>
                                             </li>
