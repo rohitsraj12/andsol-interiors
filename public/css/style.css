@@ -1,59 +1,61 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&display=swap");
 /* font-family: 'Barlow', sans-serif; */
 
-*, ::before, ::after{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-ul{
-    list-style: none;
+ul {
+  list-style: none;
 }
 
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
 
-a:hover{
-    text-decoration: none;
-    color: #fc721e;
+a:hover {
+  text-decoration: none;
+  color: #fc721e;
 }
 
-.wrap__container{
-    margin: 0 auto;
+.wrap__container {
+  margin: 0 auto;
 }
-.section__header{
-    font-family: 'Barlow', sans-serif;
-    font-size: 36px;
-    font-weight: 400;
-    text-transform: uppercase;
-
+.section__header {
+  font-family: "Barlow", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  text-transform: uppercase;
 }
-.section__sub-header{
-    font-family: 'Barlow', sans-serif;
-    font-size: 26px;
-    font-weight: 500;
+.section__sub-header {
+  font-family: "Barlow", sans-serif;
+  font-size: 26px;
+  font-weight: 500;
 }
-.top__space-p{
-    padding-top: 6rem;
+.top__space-p {
+  padding-top: 6rem;
 }
-.bottom__space-p{
-    padding-bottom: 6rem;
+.bottom__space-p {
+  padding-bottom: 6rem;
 }
-.space__py{
-    padding: 6rem 0;
+.space__py {
+  padding: 6rem 0;
 }
 /* =======================================
 
     #header section
 
 ==========================================*/
-.nav__link{
-    font-family: 'Barlow', sans-serif;
-    font-size: 1.1rem;
-    font-weight: 500;
-    color: #ffffff;
+.nav__link {
+  font-family: "Barlow", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #273846;
+  text-transform: capitalize;
 }
 
 /* =======================================
@@ -61,8 +63,9 @@ a:hover{
     #banner section
 
 ==========================================*/
-
-
+.home__banner img {
+  height: 100vh;
+}
 
 /* =======================================
 
@@ -73,48 +76,48 @@ a:hover{
 /* #offer section
 ==========================================*/
 
-.offer__figure{
-    text-align: center;
+.offer__figure {
+  text-align: center;
 }
-.offer__icon{
-    height: 40px;
-    fill: #fc721e;
-  
+.offer__icon {
+  height: 40px;
+  fill: #fc721e;
 }
-.offer__header{
-    text-align: center;
-    font-family: 'Barlow', sans-serif;
-    font-size: 1.1rem;
-    font-weight: 500;
+.offer__header {
+  text-align: center;
+  font-family: "Barlow", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 500;
 }
-.offer__body{
-    text-align: center;
+.offer__body {
+  text-align: center;
 }
-.offer__body ul li{
-    display: inline;
+.offer__body ul li {
+  display: inline;
 }
-.offer__body ul li::after{
-    content: "|";
-    padding: 0 5px;
-    color: #d8d5d5;
-}
-
-.offer__body ul li:last-child::after{
-    content: "";
+.offer__body ul li::after {
+  content: "|";
+  padding: 0 5px;
+  color: #d8d5d5;
 }
 
-.section__about-us{
-    padding: 30px 0;
+.offer__body ul li:last-child::after {
+  content: "";
 }
 
-.booking__section-header, .booking__section-footer{
-    text-align: center;
+.section__about-us {
+  padding: 30px 0;
 }
-.home__service-body{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    flex-wrap: wrap;
+
+.booking__section-header,
+.booking__section-footer {
+  text-align: center;
+}
+.home__service-body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 /* =======================================
@@ -122,118 +125,117 @@ a:hover{
     #footer section
 
 ==========================================*/
-.body__footer{
-    padding: 80px 0;
-    background-color: #e7e7e7;
+.body__footer {
+  padding: 80px 0;
+  background-color: #e7e7e7;
 }
 
-.footer__article-header{
-    margin-bottom: 40px;
-    /* text-align: center; */
-    font-family: 'Barlow', sans-serif;
-    font-size: 1.1rem;
-    font-weight: 500;
+.footer__article-header {
+  margin-bottom: 40px;
+  /* text-align: center; */
+  font-family: "Barlow", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 500;
 }
-.footer__article-body-top p{
-    padding: 0 0 20px;
+.footer__article-body-top p {
+  padding: 0 0 20px;
 }
 
-.footer__social{
-    display: flex;
-    flex-direction: row;
-    justify-content: end;
+.footer__social {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
 }
 
 .footer__social-link {
-    padding-right: 50px;
+  padding-right: 50px;
 }
 
-.footer__social-link i{
-    font-size: 20px;
-    color: #212529;
+.footer__social-link i {
+  font-size: 20px;
+  color: #212529;
 }
 
-.footer__contact-list{
-    padding-bottom: 10px;
-    display: flex;
-    flex-direction: row;
-    /* justify-content: space-between; */
+.footer__contact-list {
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
 }
 
-.footer__contact-list i{
-    padding-right: 10px;
+.footer__contact-list i {
+  padding-right: 10px;
 }
 
-.right__block-phone{
-    display: block;
+.right__block-phone {
+  display: block;
 }
 
-.footer__quick-links-list a, .footer__contact a{
-    color: #212529;
-    transition: 300ms;
+.footer__quick-links-list a,
+.footer__contact a {
+  color: #212529;
+  transition: 300ms;
 }
-.footer__quick-links-list a:hover, .footer__contact a:hover, .footer__social-link i:hover{
-    color: #fc721e;
-}
-
-
-
-.btn__primary{
-    padding: 10px;
-    border: 2px solid #fc721e;
-    background-color: #ffffff;
+.footer__quick-links-list a:hover,
+.footer__contact a:hover,
+.footer__social-link i:hover {
+  color: #fc721e;
 }
 
-.btn__primary:hover{
-    background-color: #fc721e;
-    color: #ffffff;
-    
+.btn__primary {
+  padding: 10px;
+  border: 2px solid #fc721e;
+  background-color: #ffffff;
 }
 
+.btn__primary:hover {
+  background-color: #fc721e;
+  color: #ffffff;
+}
 
 /* =======================================
 
     #contact page
 
 ==========================================*/
-.contact__section-left{
-    background-color: #666666;
+.contact__section-left {
+  background-color: #666666;
 }
-.span__header{
-    font-size: 20px;
-    font-weight: 600;
+.span__header {
+  font-size: 20px;
+  font-weight: 600;
 }
-.wrap__contact-section{
-    box-shadow:  0px 5px 20px 0px rgba(0,0,0,0.15);;
+.wrap__contact-section {
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.15);
 }
-.contact__details li{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
+.contact__details li {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
 }
-.contact__details-icon i{
-    font-size: 25px;
-    color: #fc721e;
-    padding: 5px 15px 0 30px;
+.contact__details-icon i {
+  font-size: 25px;
+  color: #fc721e;
+  padding: 5px 15px 0 30px;
 }
-.contact__details-link{
-    display: block;
+.contact__details-link {
+  display: block;
 }
-.contact__details-link:hover{
-    color: #fc721e;
+.contact__details-link:hover {
+  color: #fc721e;
 }
-.form-control{
-    position: relative;
-    padding-left: 35px;
+.form-control {
+  position: relative;
+  padding-left: 35px;
 }
-.contact__form-icon{
-    font-size: 15px;
-    color: #fc721e;
-    position: absolute;
-    left: 19px;
-    top: 61px;
-    z-index: 1;
-    padding: 0 10px 0 5px;
+.contact__form-icon {
+  font-size: 15px;
+  color: #fc721e;
+  position: absolute;
+  left: 19px;
+  top: 61px;
+  z-index: 1;
+  padding: 0 10px 0 5px;
 }
 
 /* =======================================
@@ -241,28 +243,28 @@ a:hover{
     #about us page
 
 ==========================================*/
-.wrap__about-section{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+.wrap__about-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
-.about__section-left .about__image img{
-    width: 100%;
+.about__section-left .about__image img {
+  width: 100%;
 }
-.about__section-left, .about__section-right{
-    padding: 30px;
+.about__section-left,
+.about__section-right {
+  padding: 30px;
 }
-.section__right-footer .design__types{
-    margin-bottom: 30px;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
+.section__right-footer .design__types {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
 }
-.design__types-list:not(:last-child)::after{
-    content: "|";
-    margin:0 10px;
+.design__types-list:not(:last-child)::after {
+  content: "|";
+  margin: 0 10px;
 }
-
 
 /* =======================================
 
@@ -270,11 +272,11 @@ a:hover{
 
 ==========================================*/
 
-.testimonial__section-content > article{
-    margin: 30px;
+.testimonial__section-content > article {
+  margin: 30px;
 }
-.testimonial__section-content .article__body{
-    padding: 0 20px 20px;
+.testimonial__section-content .article__body {
+  padding: 0 20px 20px;
 }
 
 /* =======================================
@@ -282,30 +284,29 @@ a:hover{
     #service page
 
 ==========================================*/
-.wrap__section-article{
-    position: relative;
+.wrap__section-article {
+  position: relative;
 }
-.service__image img{
-    width: 100%;
-    height: 350px;
+.service__image img {
+  width: 100%;
+  height: 350px;
 }
-.service__detail{
-    height: 310px;
-    margin: 20px;
-    position: absolute;
-    bottom: 0;
-    text-align: center;
-    background-color: #ffffffb2;
-    transition: 300ms;
+.service__detail {
+  height: 310px;
+  margin: 20px;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  background-color: #ffffffb2;
+  transition: 300ms;
 }
-.service__article-header{
-     text-transform: capitalize;
-     font-size: 20px;
-     font-weight: 500;
-
+.service__article-header {
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: 500;
 }
-.service__section-article:hover .service__detail{
-    display: none;
+.service__section-article:hover .service__detail {
+  display: none;
 }
 
 /* =======================================
@@ -313,27 +314,26 @@ a:hover{
     #faq page
 
 ==========================================*/
-.faq__section-article{
-    background-color: #e7e7e7;
-    margin: 30px;
+.faq__section-article {
+  background-color: #e7e7e7;
+  margin: 30px;
 }
-.faq__header{
-    padding: 10px;
-    position: relative;
+.faq__header {
+  padding: 10px;
+  position: relative;
 }
-.faq__icon{
-    padding: 10px;
-    text-align: center;
-    position: absolute;
-    right: 0;
-    bottom: 0;
+.faq__icon {
+  padding: 10px;
+  text-align: center;
+  position: absolute;
+  right: 0;
+  bottom: 0;
 }
-.fa-sort-asc{
-    display: none;
+.fa-sort-asc {
+  display: none;
 }
-.faq__footer{
-    padding: 10px;
-    display: none;
-    background-color: #e7e7e7;
-
+.faq__footer {
+  padding: 10px;
+  display: none;
+  background-color: #e7e7e7;
 }
