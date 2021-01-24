@@ -324,28 +324,40 @@
                 </section>
 
                 <section class="section__testimonial bg-light py-5">
-                    <div class="container ">
-                        <h4 class="section__sub-header text-center pb-4">
-                            What people say?
-                        </h4> 
-                        <div class="testimonial__section-content">
-                            <article class="text-center border mb-4">
-                                <div class="article__header px-4">
-                                    <span class="d-block py-4">peter jefferson</span>
-                                </div>
-                                <div class="article__body ">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
-                                </div>
-                            </article>
-                        
-                            <article class="text-center border mb-4">
-                                <div class="article__header px-4">
-                                    <span class="d-block py-4">peter jefferson</span>
-                                </div>
-                                <div class="article__body">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
-                                </div>
-                            </article>
+                    <div class="container">
+                        <div class="wrap__header py-4">
+                            <h2 class="section__header text-center">
+                                What people say?
+                            </h2>
+                        </div> 
+                    </div>
+                    
+                    <div class="wrap__testimonial-section pt-4">
+                        <div class="container ">
+                            <div class="testimonial__section-content row">
+                                <blockquote class="col-md-6">
+                                    <article class="text-center border">
+                                   
+                                    <div class="article__body">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
+                                    </div> 
+                                    <div class="article__header px-4">
+                                        <cite class="d-block">peter jefferson</cite>
+                                    </div>
+                                </article>
+                                </blockquote>
+                                <blockquote class="col-md-6">
+                                    <article class="text-center border">
+                                   
+                                    <div class="article__body">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
+                                    </div> 
+                                    <div class="article__header px-4">
+                                        <cite class="d-block">peter jefferson</cite>
+                                    </div>
+                                </article>
+                                </blockquote>
+                            </div>
                         </div>
                     </div>
                 </section>
