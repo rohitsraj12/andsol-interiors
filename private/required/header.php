@@ -15,6 +15,9 @@
     <div class="body__wrap">
         <div class="body__header">
            
+        <div class="hamburger">
+                            <i class="fa fa-bars" aria-hidden="true"></i>
+                    </div>
                 <header>
                     <div class="header__brand">
                         <a href="index.php">
@@ -22,9 +25,6 @@
                         </a>
                     </div>
                     <!-- end header brand --> 
-                    <div class="hamburger">
-                            <a href=""><i class="fa fa-bars" aria-hidden="true"></i></a>
-                    </div>
                     <nav class="header__nav">
                        
                         <ul>
