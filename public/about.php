@@ -33,7 +33,7 @@
                          <div class="wrap__about-section row">
                                 <div class="about__section-left col-md-5">
                                     <figure class="about__image">
-                                        <img src="img/project/about.jpeg" alt="about us">
+                                        <img src="img/project/about.jpg" alt="about us">
                                     </figure>
                                 </div>
                                 <div class="about__section-right col-md-7">
