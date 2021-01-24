@@ -1,6 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&display=swap");
 /* font-family: 'Barlow', sans-serif; */
 
+:root {
+    --color-white: #ffffff;
+    --color-theme: #fe6600;
+    --color-dark: #212529;
+  
+    --color-light-gray: #f5f5f5;
+    --color-dark-gray: #5c5c5c;
+  
+    --color-text-1: rgb(255, 255, 255);
+    --color-text-2: #999;
+  
+    --font-primary: 'Barlow', sans-serif;
+  }
+
+
 *,
 ::before,
 ::after {
@@ -137,6 +152,10 @@ a:hover {
   font-size: 1.1rem;
   font-weight: 500;
 }
+.footer__article-header img{
+    width: 200px;
+
+}
 .footer__article-body-top p {
   padding: 0 0 20px;
 }
@@ -244,9 +263,9 @@ a:hover {
 
 ==========================================*/
 .wrap__about-section {
-  display: flex;
+  /* display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-around; */
 }
 .about__section-left .about__image img {
   width: 100%;
@@ -265,7 +284,19 @@ a:hover {
   content: "|";
   margin: 0 10px;
 }
-
+.section__about-offer{
+    margin-bottom: 100px;
+}
+.section__about-offer h4{
+    font-family: var(--font-primary);
+    font-size: 1.2rem;
+}
+.section__about-offer ul li+li{
+    margin-left: 20px;
+}
+.section__about-offer ul li{
+    color: #585858;
+}
 /* =======================================
 
     #testimonial
@@ -274,9 +305,6 @@ a:hover {
 
 .testimonial__section-content > article {
   margin: 30px;
-}
-.testimonial__section-content .article__body {
-  padding: 0 20px 20px;
 }
 
 /* =======================================
