@@ -40,12 +40,6 @@
     width: 33%;
     padding: 30px;
   }
-  .testimonial__section-content {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-  }
-
   .service__section-content {
     display: flex;
     flex-direction: row;
