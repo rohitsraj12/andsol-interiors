@@ -160,6 +160,9 @@ a:hover {
   padding: 0 0 20px;
   color: #e9e99e;
 }
+.body__footer a{
+    color: #e9e99e;
+}
 
 .footer__social {
   display: flex;
