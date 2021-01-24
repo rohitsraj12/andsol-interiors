@@ -1,135 +1,133 @@
-@media (min-width: 769px){
-    .hamburger{
-        display: none;
-    }
-    .banner__mobile{
-        display: none;
-    }
+@media (min-width: 769px) {
+  .hamburger {
+    display: none;
+  }
+  .banner__mobile {
+    display: none;
+  }
 
-    .body__header{
-        width: 100%;
-        background-color: #00000080;
-        position: absolute;
-        z-index: 1;
-    }
-    .body__header header{
-        width: 80%;
-        margin: 0 auto;
-        padding: 10px 0;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: flex-end;
-    }
-    .nav__list{
-        display: inline;
-    }
-    .nav__list + li{
-        margin-left: 30px;
-    }
-    .banner__desktop img{
-        height: 100vh;
-        width: 100%;
-    }
-    
-    .home__service-body article{
-        width: 33%;
-        padding: 30px;
-    }
-    .testimonial__section-content{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-    }
+  .body__header {
+    width: 100%;
+    background-color: #ffffffe7;
+    position: absolute;
+    z-index: 1;
+  }
+  .body__header header {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  .header__brand img {
+    height: 60px;
+  }
 
-    .service__section-content{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        flex-wrap: wrap;
-    }
-    .service__section-article{
-        width: 33%;
-        padding: 20px;
-    }
-    
+  .nav__list {
+    display: inline;
+  }
+  .nav__list + li {
+    margin-left: 30px;
+  }
+  .banner__desktop img {
+    height: 100vh;
+    width: 100%;
+  }
+
+  .home__service-body article {
+    width: 33%;
+    padding: 30px;
+  }
+  .testimonial__section-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .service__section-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .service__section-article {
+    width: 33%;
+    padding: 20px;
+  }
 }
 
-@media (max-width: 768px){
-    
-    .body__header header{
-        width: 80%;
-        margin: 0 auto;
-        padding: 10px 0;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        position: relative;
-    }
-    .header__nav ul{
-        display: none;
-        
-    }
-    .hamburger{
-        position: absolute;
-        right: 0;
-    }
-    .hamburger i{
-        font-size: 30px;
-        color: #fc721e;
-    
-    }
-    .header__nav{
-        position: absolute;
-    }
-    .banner__desktop{
-        display: none;
-    }
+@media (max-width: 768px) {
+  .body__header header {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+  }
+  .header__nav ul {
+    display: none;
+  }
+  .hamburger {
+    position: absolute;
+    right: 0;
+  }
+  .hamburger i {
+    font-size: 30px;
+    color: #fc721e;
+  }
+  .header__nav {
+    position: absolute;
+  }
+  .banner__desktop {
+    display: none;
+  }
 
-    .section__about-us figure{
-        display: none;
-    }
-    
-    .home__service-body article{
-        width: 33%;
-        padding: 30px;
-    }
+  .section__about-us figure {
+    display: none;
+  }
 
-    /*==========================================
+  .home__service-body article {
+    width: 33%;
+    padding: 30px;
+  }
+
+  /*==========================================
     
         #contact page
     
     =========================================*/
-    .wrap__contact-section > div{
-        display: flex;
-        flex-direction: column-reverse;
-        justify-content: center;
-    }
+  .wrap__contact-section > div {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+  }
 
-    
-    /*==========================================
+  /*==========================================
     
         #service page
     
     =========================================*/
-    .service__section-content{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-    }
-    .service__section-article{
-        width: 100%;
-    }
-    
-    
-    /*==========================================
+  .service__section-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .service__section-article {
+    width: 100%;
+  }
+
+  /*==========================================
     
         #about page
     
     =========================================*/
-.wrap__about-section{
+  .wrap__about-section {
     display: flex;
     flex-direction: column-reverse;
     justify-content: center;
-}
+  }
 }
