@@ -73,7 +73,7 @@
                         </div>
                         <div class="wrap__body text-center">
                             <div class="row">
-                                <div class="col-6 col-sm-3">
+                                <div class="col-sm-3">
                                     <figure>
                                         <img src="" alt="">
                                     </figure>
@@ -88,16 +88,16 @@
                                         <li>Storage</li>
                                     </ul>
                                 </div>
-                                <div class="col-6 col-sm-3"></div>
-                                <div class="col-6 col-sm-3"></div>
-                                <div class="col-6 col-sm-3"></div>
+                                <div class="col-sm-3"></div>
+                                <div class="col-sm-3"></div>
+                                <div class="col-sm-3"></div>
                             </div>
                         </div> 
                     </div>
                      
                 </section>
 
-                <section class="section__testimonial bg-light py-5">
+                <section class="section__about-testimonial bg-light py-5">
                     <div class="container">
                         <div class="wrap__header py-4">
                             <h2 class="section__header text-center">
