@@ -1,0 +1,70 @@
+.hbtn {
+  position: relative;
+  box-sizing: border-box;
+  display: inline-block;
+  overflow: hidden;
+  padding: 8px 20px;
+  margin: 0px 3px 6px;
+  text-align: center;
+  border: 2px solid rgb(67, 17, 17);
+  text-decoration: none;
+  color: rgb(104, 31, 31);
+  white-space: nowrap;
+  z-index: 0;
+}
+
+.hbtn i {
+  padding-right: 8px;
+}
+
+.hb-fill-middle::before {
+  position: absolute;
+  content: "";
+  background: rgb(216, 135, 135);
+  transition-duration: 0.3s;
+  z-index: -1;
+  inset: auto auto 0px 0px;
+  width: 100%;
+  height: 0px;
+  opacity: 1;
+}
+
+.hb-fill-middle:hover::before {
+  width: 100%;
+  height: 50%;
+  opacity: 1;
+}
+
+.hb-fill-middle2:hover {
+  color: rgb(220, 220, 220);
+  background: rgb(255, 255, 255);
+  transition: color 0.3s ease 0s, background 0s ease 0.3s;
+}
+
+.hb-fill-middle::after {
+  position: absolute;
+  content: "";
+  background: rgb(233, 107, 107);
+  transition-duration: 0.3s;
+  z-index: -1;
+  inset: 0px auto auto 0px;
+  width: 100%;
+  height: 0px;
+  opacity: 1;
+}
+
+.hb-fill-middle:hover::after {
+  height: 50%;
+}
+
+.hpad2 {
+  padding: 12px 24px !important;
+}
+
+.hbor1 {
+  border-width: 1px;
+}
+
+.hbor1::before {
+  border-width: 1px !important;
+}
