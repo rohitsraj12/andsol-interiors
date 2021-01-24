@@ -315,12 +315,16 @@ a:hover {
 
 ==========================================*/
 .faq__section-article {
-  background-color: #e7e7e7;
   margin: 30px;
 }
 .faq__header {
   padding: 10px;
+  background-color: #cecece;
   position: relative;
+  font-family: "Barlow", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 500;
+  border-radius: 5px 5px 0 0;
 }
 .faq__icon {
   padding: 10px;
@@ -334,6 +338,7 @@ a:hover {
 }
 .faq__footer {
   padding: 10px;
-  display: none;
+  background-color: #e7e7e7;
+  /* display: none; */
   background-color: #e7e7e7;
 }
