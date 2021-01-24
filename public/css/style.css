@@ -2,19 +2,18 @@
 /* font-family: 'Barlow', sans-serif; */
 
 :root {
-    --color-white: #ffffff;
-    --color-theme: #fe6600;
-    --color-dark: #212529;
-  
-    --color-light-gray: #f5f5f5;
-    --color-dark-gray: #5c5c5c;
-  
-    --color-text-1: rgb(255, 255, 255);
-    --color-text-2: #999;
-  
-    --font-primary: 'Barlow', sans-serif;
-  }
+  --color-white: #ffffff;
+  --color-theme: #fe6600;
+  --color-dark: #212529;
 
+  --color-light-gray: #f5f5f5;
+  --color-dark-gray: #5c5c5c;
+
+  --color-text-1: rgb(255, 255, 255);
+  --color-text-2: #999;
+
+  --font-primary: "Barlow", sans-serif;
+}
 
 *,
 ::before,
@@ -141,27 +140,27 @@ a:hover {
 
 ==========================================*/
 .body__footer {
-  padding: 80px 0;
+  padding: 80px 0 20px;
   background-color: #131313;
 }
 
 .footer__article-header {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   /* text-align: center; */
   font-family: "Barlow", sans-serif;
   font-size: 1.1rem;
   font-weight: 500;
+  color: #dcdcdc;
 }
-.footer__article-header img{
-    width: 200px;
-
+.footer__article-header img {
+  width: 200px;
 }
 .footer__article-body-top p {
-  padding: 0 0 20px;
-  color: #e9e99e;
+  padding: 0 0 10px;
+  color: #a2a2a2;
 }
-.body__footer a{
-    color: #e9e99e;
+.body__footer a {
+  color: #a2a2a2;
 }
 
 .footer__social {
@@ -171,12 +170,12 @@ a:hover {
 }
 
 .footer__social-link {
-  padding-right: 50px;
+  padding-right: 30px;
 }
 
 .footer__social-link i {
   font-size: 20px;
-  color: #212529;
+  color: #a2a2a2;
 }
 
 .footer__contact-list {
@@ -187,6 +186,7 @@ a:hover {
 }
 
 .footer__contact-list i {
+  color: #a2a2a2;
   padding-right: 10px;
 }
 
@@ -195,8 +195,10 @@ a:hover {
 }
 
 .footer__quick-links-list a,
-.footer__contact a {
-  color: #212529;
+.footer__contact a,
+.footer__contact address {
+  color: #a2a2a2;
+
   transition: 300ms;
 }
 .footer__quick-links-list a:hover,
@@ -288,18 +290,18 @@ a:hover {
   content: "|";
   margin: 0 10px;
 }
-.section__about-offer{
-    margin-bottom: 100px;
+.section__about-offer {
+  margin-bottom: 100px;
 }
-.section__about-offer h4{
-    font-family: var(--font-primary);
-    font-size: 1.2rem;
+.section__about-offer h4 {
+  font-family: var(--font-primary);
+  font-size: 1.2rem;
 }
-.section__about-offer ul li+li{
-    margin-left: 20px;
+.section__about-offer ul li + li {
+  margin-left: 20px;
 }
-.section__about-offer ul li{
-    color: #585858;
+.section__about-offer ul li {
+  color: #585858;
 }
 /* =======================================
 
