@@ -3,7 +3,7 @@
             include("../private/required/header.php");
         
         ?>
-        <div class="body__banner">
+        <div class="body__banner other__banner">
             <div class="wrap__banner">
                 <div class="banner__mobile">
 
@@ -75,7 +75,7 @@
                             <div class="row">
                                 <div class="col-sm-3">
                                     <figure>
-                                        <img src="" alt="">
+                                        <img src="img/icon/kitchen.png" al class="offer__icon" t="modular">
                                     </figure>
                                     <header>
                                         <h4>
@@ -88,9 +88,58 @@
                                         <li>Storage</li>
                                     </ul>
                                 </div>
-                                <div class="col-sm-3"></div>
-                                <div class="col-sm-3"></div>
-                                <div class="col-sm-3"></div>
+                                <div class="col-sm-3">
+                                    <figure>
+                                        <img src="img/icon/furniture.png"  class="offer__icon" alt="furniture">
+                                    </figure>
+                                    <header>
+                                        <h4>
+                                            Furniture
+                                        </h4>
+                                    </header>
+                                    <ul class="d-flex justify-content-center">
+                                        <li>Beds</li>
+                                        <li>Sofas</li>
+                                        <li>Storage</li>
+                                        <li>Seating</li>
+                                        <li>Tables</li>
+                                        <li>Pooja unit</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-3">
+                                    <figure>
+                                        <img src="img/icon/decoration.png" class="offer__icon"  alt="furnishing and decor">
+                                    </figure>
+                                    <header>
+                                        <h4>
+                                            Furnishing and decor
+                                        </h4>
+                                    </header>
+                                    <ul class="d-flex justify-content-center">
+                                        <li>Furnishing</li>
+                                        <li>Wall treatment</li>
+                                        <li>Decor</li>
+                                        <li>Appliances</li>
+                                        <li>lighting</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-3">
+                                    <figure>
+                                        <img src="img/icon/wall.png" class="offer__icon" alt="home improvement services">
+                                    </figure>
+                                    <header>
+                                        <h4>
+                                            Home improvement services
+                                        </h4>
+                                    </header>
+                                    <ul class="d-flex justify-content-center">
+                                        <li>False ceiling</li>
+                                        <li>Painting</li>
+                                        <li>Bathroom remodeling</li>
+                                        <li>Flooring & wall tiling</li>
+                                        <li>Plumbing Electrical</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div> 
                     </div>
