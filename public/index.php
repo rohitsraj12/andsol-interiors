@@ -3,7 +3,6 @@
             include("../private/required/header.php");
         
         ?>
-
         <div class="body__banner">
             <div class="wrap__banner">
                 <!-- <div class="banner__mobile">
@@ -57,6 +56,10 @@
             <!-- end wrap banner -->
         </div>
         <!-- end body banner -->
+       
+       
+        <a href="#" class="hbtn hb-fill-middle hpad2 hbor1">Slide Middle</a>
+
 
         <div class="body__container space__py">
             <main>
