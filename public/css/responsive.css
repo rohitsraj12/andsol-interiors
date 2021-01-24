@@ -68,7 +68,7 @@
     justify-content: space-between;
     position: relative;
   }
-  .header__nav ul {
+  .header__nav {
     display: none;
   }
   .hamburger {
