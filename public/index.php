@@ -69,7 +69,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <figure>
-                                    <img src="img/project/about.jpeg" alt="about" class="w-100" height="400px">
+                                    <img src="img/project/about.jpg" alt="about" class="w-100" height="400px">
                                 </figure>
                             </div>
                             <div class=" col-sm-6">
