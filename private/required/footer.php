@@ -6,7 +6,7 @@
                             <article class="col-sm-4">
                                 <header class="footer__article-header">
                                     <a href="index.php">
-                                        <img src="img/brand/andsol_interiors.jpeg" height="80px" alt="andsol interiors logo">
+                                        <img src="img/brand/andsol_interiors.png" height="80px" alt="andsol interiors logo">
                                     </a>
                                 </header>
                                 <!-- end footer article header -->
