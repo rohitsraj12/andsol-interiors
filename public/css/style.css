@@ -297,15 +297,56 @@ a:hover {
 .section__about-offer {
   margin-bottom: 100px;
 }
+.section__about-offer article{
+  margin: 0 5px;
+  background-color: #dadada;
+  /* background-image: linear-gradient(rgba(231, 231, 231, 0.90), rgba(231, 228, 228, 0.90)), */
+    /* url("../img/banner/slide.jpg"); */
+  color: #e8e8e8;
+  border: 1px solid #d3d3d3;
+  border-radius: 4px;
+  transition: 300ms;
+}
+.section__about-offer article:hover{
+  transform: scale(1.025);
+}
+
+
+.section__about-offer figure {
+  /* background-color: #110011; */
+  padding: 30px 20px 10px;
+  /* position:relative; */
+}
+/* .section__about-offer figure img {
+   position: absolute;
+  top: 30px;
+  left: 41%;  
+} */
+/* 
+.section__about-offer figure span {
+  height: 60px;
+  width: 60px;
+  background-color: #d1d1d1;
+  border-radius: 50%;
+  margin: auto;
+  display: block;
+ 
+} */
+
 .section__about-offer h4 {
   font-family: var(--font-primary);
   font-size: 1.2rem;
 }
-.section__about-offer ul li + li {
+/* .section__about-offer ul li + li {
   margin-left: 20px;
-}
+} */
 .section__about-offer ul li {
   color: #585858;
+  padding: 5px 10px;
+  border-bottom: 1px solid #d1d1d1;;
+}
+.section__about-offer .offer__icon{
+  height: 60px;
 }
 /* =======================================
 
