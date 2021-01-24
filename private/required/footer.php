@@ -6,13 +6,14 @@
                             <article class="col-sm-4">
                                 <header class="footer__article-header">
                                     <a href="index.php">
-                                        <img src="img/brand/andsol_interiors.png" height="80px" alt="andsol interiors logo">
+                                        <img src="img/brand/andsol_interiors.png" alt="andsol interiors logo">
                                     </a>
                                 </header>
                                 <!-- end footer article header -->
                                 <div class="footer__article-body">
                                    <div class="footer__article-body-top">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, magnam!</p>
+                                        <p>
+                                            <strong>Andsol interiors</strong>  gives life to your dream home through Andsol interiors. Buying a home is one of the long term and precious dream for everyone. now it is easy for everyone to buy their dream home in many easy ways</p>
                                    </div>
                                    <!-- end footer artcle body top -->
                                     <div class="footer__article-body-bottom">
@@ -44,7 +45,7 @@
 
                                 <!-- end footer article body -->
                             </article>
-                            <article class="col-sm-2">
+                            <article class="col-sm-4">
                                 <header class="footer__article-header">
                                     QUICK LINKS
                                 </header>
@@ -71,7 +72,7 @@
                                     </ul>
                                 </div>
                             </article>
-                            <article class="col-sm-2">
+                            <!-- <article class="col-sm-2">
                                 <header class="footer__article-header">
                                     PROJECTS
                                 </header>
@@ -84,7 +85,7 @@
                                         <li>5</li>
                                     </ul>
                                 </div>
-                            </article>
+                            </article> -->
                             <article class="col-sm-4">
                                 <header class="footer__article-header">
                                     GET IN TOUCH 
