@@ -50,24 +50,25 @@
     width: 33%;
     padding: 20px;
   }
-  
-.section__appointment{
+
+  .section__appointment {
     position: relative;
-}
-.section__appointment::after{
+  }
+  .section__appointment::after {
     content: "";
     width: 100%;
     height: 350px;
     background-image: url("../img/icon/bg1.svg");
     background-size: 400px 350px;
     background-repeat: no-repeat;
+    background-position: left center;
     position: absolute;
     right: 0;
     top: 0;
     opacity: 0.4;
-
-}
-.section__appointment::before{
+    z-index: -1;
+  }
+  .section__appointment::before {
     content: "";
     width: 100%;
     height: 350px;
@@ -78,8 +79,7 @@
     left: 100%;
     top: 0;
     opacity: 0.4;
-
-}
+  }
 }
 
 @media (max-width: 768px) {
@@ -95,6 +95,7 @@
 
   .header__nav {
     display: none;
+    padding-top: 15px;
   }
 
   .hamburger {
@@ -104,10 +105,17 @@
   }
   .hamburger i {
     font-size: 30px;
-    color: #fc721e;
+    color: #1a1a1a;
   }
-  .header__nav {
-    background-color: #fc721e;
+  .header__nav li a {
+    padding: 8px;
+    margin-bottom: 1px;
+    display: block;
+    background-color: rgb(236, 75, 149);
+    color: #fff;
+    font-weight: 400;
+    font-size: 1.2rem;
+    text-align: center;
   }
   .banner__desktop {
     display: none;
