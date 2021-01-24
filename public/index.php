@@ -58,7 +58,7 @@
         <!-- end body banner -->
        
        
-        <a href="#" class="hbtn hb-fill-middle hpad2 hbor1">Slide Middle</a>
+        <!-- <a href="#" class="hbtn hb-fill-middle hpad2 hbor1">Slide Middle</a> -->
 
 
         <div class="body__container space__py">
@@ -82,7 +82,7 @@
                                     <p class="pb-4">
                                         We, andsol interior, situated at Yellenahalli main road, Akshayanagar, bangalore, karnataka, operates in the fields of interior designing with a talented team of designers. we have successfully conceptualized and completed the interior designs of numerous residential, commercial projects as well as architectural projects. we have completed some of the finest designs with the help of our renowned designers.
                                     </p>
-                                    <a href="about.php" class="btn btn__primary">Read More</a>
+                                    <a href="about.php" class="hbtn hb-fill-middle hpad2 hbor1">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -200,7 +200,7 @@
 
                                     </div>
                                     <div class="service__slider-button text-center">
-                                        <a href="service.php" class="btn btn__primary">View all services</a>
+                                        <a href="service.php" class="hbtn hb-fill-middle hpad2 hbor1">View all services</a>
                                     </div>
                                 </div>               
                                 <div class="home__service-body">
@@ -323,7 +323,7 @@
                     </div>
                 </section>
 
-                <section class="section__testimonial bg-light py-5">
+                <section class="section__testimonial py-5">
                     <div class="container">
                         <div class="wrap__header py-4">
                             <h2 class="section__header text-center">
@@ -336,7 +336,7 @@
                         <div class="container ">
                             <div class="testimonial__section-content row">
                                 <blockquote class="col-md-6">
-                                    <article class="text-center border">
+                                    <article class="text-center border py-4 px-3">
                                    
                                     <div class="article__body">
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
@@ -347,7 +347,7 @@
                                 </article>
                                 </blockquote>
                                 <blockquote class="col-md-6">
-                                    <article class="text-center border">
+                                    <article class="text-center border py-4 px-3">
                                    
                                     <div class="article__body">
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
@@ -370,7 +370,7 @@
                             </h2>
                         </div>
                         <div class="booking__section-footer">
-                            <a href="index.php" class="btn btn__primary">GET STARTED</a>
+                            <a href="index.php" class="hbtn hb-fill-middle hpad2 hbor1">GET STARTED</a>
                         </div>
                     </div>
                 </section>
