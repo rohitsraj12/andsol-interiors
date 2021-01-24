@@ -54,27 +54,30 @@
 
 @media (max-width: 768px) {
   .body__header header {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
     padding: 10px 0;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    position: relative;
   }
+
+  .header__brand img {
+    height: 60px;
+  }
+
   .header__nav {
     display: none;
   }
+
   .hamburger {
     position: absolute;
-    right: 0;
+    top: 30px;
+    right: 4%;
   }
   .hamburger i {
     font-size: 30px;
     color: #fc721e;
   }
   .header__nav {
-    position: absolute;
+    background-color: #fc721e;
   }
   .banner__desktop {
     display: none;
