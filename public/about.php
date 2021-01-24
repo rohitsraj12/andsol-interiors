@@ -74,71 +74,84 @@
                         <div class="wrap__body text-center">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <figure>
-                                        <img src="img/icon/kitchen.png" al class="offer__icon" t="modular">
-                                    </figure>
-                                    <header>
-                                        <h4>
-                                            Modular
-                                        </h4>
-                                    </header>
-                                    <ul class="d-flex justify-content-center">
-                                        <li>Kitchen</li>
-                                        <li>Wardrobe</li>
-                                        <li>Storage</li>
-                                    </ul>
+                                    <article>
+                                        <figure>
+                                            <!-- <span></span> -->
+                                            <img src="img/icon/kitchen.png" class="offer__icon" alt="modular">
+                                        </figure>
+                                          <header>
+                                            <h4>
+                                                Modular
+                                            </h4>
+                                        </header>
+                                        <ul class="text-left">
+                                            <li>Kitchen</li>
+                                            <li>Wardrobe</li>
+                                            <li>Storage</li>
+                                        </ul>
+                                    </article>
+                                  
                                 </div>
                                 <div class="col-sm-3">
-                                    <figure>
-                                        <img src="img/icon/furniture.png"  class="offer__icon" alt="furniture">
-                                    </figure>
-                                    <header>
-                                        <h4>
-                                            Furniture
-                                        </h4>
-                                    </header>
-                                    <ul class="d-flex justify-content-center">
-                                        <li>Beds</li>
-                                        <li>Sofas</li>
-                                        <li>Storage</li>
-                                        <li>Seating</li>
-                                        <li>Tables</li>
-                                        <li>Pooja unit</li>
-                                    </ul>
+                                    <article>
+                                        <figure>
+                                            <img src="img/icon/furniture.png"  class="offer__icon" alt="furniture">
+                                        </figure>
+                                        <header>
+                                            <h4>
+                                                Furniture
+                                            </h4>
+                                        </header>
+                                        <ul class="text-left">
+                                            <li>Beds</li>
+                                            <li>Sofas</li>
+                                            <li>Storage</li>
+                                            <li>Seating</li>
+                                            <li>Tables</li>
+                                            <li>Pooja unit</li>
+                                        </ul>
+                                    </article>
+                                   
                                 </div>
                                 <div class="col-sm-3">
-                                    <figure>
-                                        <img src="img/icon/decoration.png" class="offer__icon"  alt="furnishing and decor">
-                                    </figure>
-                                    <header>
-                                        <h4>
-                                            Furnishing and decor
-                                        </h4>
-                                    </header>
-                                    <ul class="d-flex justify-content-center">
-                                        <li>Furnishing</li>
-                                        <li>Wall treatment</li>
-                                        <li>Decor</li>
-                                        <li>Appliances</li>
-                                        <li>lighting</li>
-                                    </ul>
+                                    <article>
+                                        <figure>
+                                            <img src="img/icon/decoration.png" class="offer__icon"  alt="furnishing and decor">
+                                        </figure>
+                                        <header>
+                                            <h4>
+                                                Furnishing and decor
+                                            </h4>
+                                        </header>
+                                        <ul class="text-left">
+                                            <li>Furnishing</li>
+                                            <li>Wall treatment</li>
+                                            <li>Decor</li>
+                                            <li>Appliances</li>
+                                            <li>lighting</li>
+                                        </ul>
+                                    </article>
+                                    
                                 </div>
                                 <div class="col-sm-3">
-                                    <figure>
-                                        <img src="img/icon/wall.png" class="offer__icon" alt="home improvement services">
-                                    </figure>
-                                    <header>
-                                        <h4>
-                                            Home improvement services
-                                        </h4>
-                                    </header>
-                                    <ul class="d-flex justify-content-center">
-                                        <li>False ceiling</li>
-                                        <li>Painting</li>
-                                        <li>Bathroom remodeling</li>
-                                        <li>Flooring & wall tiling</li>
-                                        <li>Plumbing Electrical</li>
-                                    </ul>
+                                    <article>
+                                        <figure>
+                                            <img src="img/icon/wall.png" class="offer__icon" alt="home improvement services">
+                                        </figure>
+                                        <header>
+                                            <h4>
+                                                Home improvement services
+                                            </h4>
+                                        </header>
+                                        <ul class="text-left">
+                                            <li>False ceiling</li>
+                                            <li>Painting</li>
+                                            <li>Bathroom remodeling</li>
+                                            <li>Flooring & wall tiling</li>
+                                            <li>Plumbing Electrical</li>
+                                        </ul>
+                                    </article>
+                                   
                                 </div>
                             </div>
                         </div> 
