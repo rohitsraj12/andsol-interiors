@@ -20,7 +20,7 @@
 
         <div class="body__container">
             <main>
-                <section class="section__offer py-5">
+                <section class="section__about-page py-5">
                     <div class="container">
                         <div class="wrap__header py-4">
                             <h2 class="section__header">
@@ -30,21 +30,26 @@
                         <!-- end wrap header -->
                     </div>
                     <div class="container">
-                         <div class="wrap__about-section">
-                                <div class="about__section-left">
+                         <div class="wrap__about-section row">
+                                <div class="about__section-left col-md-5">
                                     <figure class="about__image">
                                         <img src="img/project/about.jpeg" alt="about us">
                                     </figure>
                                 </div>
-                                <div class="about__section-right">
-                                    <div class="section__right-header">
+                                <div class="about__section-right col-md-7">
+                                    <!-- <div class="section__right-header">
                                         <h2 class="section__sub-header">
-                                            Best Designers Architectures for You
+                                            About andsol interiors
                                         </h2>
-                                    </div>
+                                    </div> -->
                                     <div class="section__right-body">
                                         <div class="about__deginers">
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore unde vel obcaecati magnam amet animi deleniti maiores id aliquam exercitationem eos quos dolore at architecto quis veritatis porro quam, recusandae beatae eum minima iste odio. Vitae, hic ut nulla dolores id consequuntur totam dolorum doloremque! Recusandae possimus saepe quisquam provident!</p>
+                                            <p>
+                                                Give life to your dream home through Andsol interiors. Buying a home is o0ne of the long term and precious dream for everyone. now it is easy for everyone to buy their dream home in many easy ways. Well, adding life to the dream home is very important we Andsol Interiors help in adding life to your dream home with our stunning interior designing experts and their innovative ideas. We Andsol Interiors have handpicked experts who are highly talented in interior designing field. We have best interior designers and decorators who are experts in adding bright and beautiful colors and marvelous properties to your dream home. Our designers employ with innovative ideas that adds more beauty to your home.
+                                            </p>
+                                            <p>
+                                            We always aim to make your home classy, simple, sophisticated and the best place to live. We always keep our customer priority in the top position, we invest valuable time in knowing their ideas, wishes, likes and dislikes while designing the interiors to their home. We always concentrate in offering great and creative services to our clients. Each element we choose to design your home contains great quality with astonishing beauty. We are experts in 3d designing, ceiling designs, interior designing, and PVC interior designing for all the commercial and residential properties. Andsol is one of the rapid developing interior designing companies who always aims to deliver the best for clients. We have 6+ years of experience in the interior desiging filed and we are proud that we have successfully completed more than 30 projects. Talk to us to add beauty to yoru dream home.
+                                            </p>
                                         </div>
                                     </div>
                                     <div class="section__right-footer">
@@ -53,45 +58,79 @@
                                             <li class="design__types-list">Interior design</li>
                                             <li class="design__types-list">Furniture</li>
                                         </ul>
-                                        <button class="btn btn__primary">Read More</button>
                                     </div>
                                 </div>
                         </div>
                     </div>                   
                 </section>
 
-                <section class="section__testimonial bg-dark text-light py-5">
+                <section class="section__about-offer">
                     <div class="container">
                         <div class="wrap__header py-4">
                             <h2 class="section__header">
-                                Testimonials
+                                What do we offer?
+                            </h2>
+                        </div>
+                        <div class="wrap__body text-center">
+                            <div class="row">
+                                <div class="col-6 col-sm-3">
+                                    <figure>
+                                        <img src="" alt="">
+                                    </figure>
+                                    <header>
+                                        <h4>
+                                            Modular
+                                        </h4>
+                                    </header>
+                                    <ul class="d-flex justify-content-center">
+                                        <li>Kitchen</li>
+                                        <li>Wardrobe</li>
+                                        <li>Storage</li>
+                                    </ul>
+                                </div>
+                                <div class="col-6 col-sm-3"></div>
+                                <div class="col-6 col-sm-3"></div>
+                                <div class="col-6 col-sm-3"></div>
+                            </div>
+                        </div> 
+                    </div>
+                     
+                </section>
+
+                <section class="section__testimonial bg-light py-5">
+                    <div class="container">
+                        <div class="wrap__header py-4">
+                            <h2 class="section__header text-center">
+                                What people say?
                             </h2>
                         </div> 
                     </div>
                     
-                    <div class="wrap__testimonial-section ">
+                    <div class="wrap__testimonial-section pt-4">
                         <div class="container ">
-                            <h4 class="section__sub-header text-center pb-4">
-                                What people say?
-                            </h4> 
-                            <div class="testimonial__section-content">
-                                <article class="text-center border">
-                                    <div class="article__header px-4">
-                                        <span class="d-block p-4">peter jefferson</span>
-                                    </div>
+                            <div class="testimonial__section-content row">
+                                <blockquote class="col-md-6">
+                                    <article class="text-center border">
+                                   
                                     <div class="article__body">
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
+                                    </div> 
+                                    <div class="article__header px-4">
+                                        <cite class="d-block">peter jefferson</cite>
                                     </div>
                                 </article>
-                            
-                                <article class="text-center border">
-                                    <div class="article__header px-4">
-                                        <span class="d-block py-4">peter jefferson</span>
-                                    </div>
+                                </blockquote>
+                                <blockquote class="col-md-6">
+                                    <article class="text-center border">
+                                   
                                     <div class="article__body">
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
+                                    </div> 
+                                    <div class="article__header px-4">
+                                        <cite class="d-block">peter jefferson</cite>
                                     </div>
                                 </article>
+                                </blockquote>
                             </div>
                         </div>
                     </div>
