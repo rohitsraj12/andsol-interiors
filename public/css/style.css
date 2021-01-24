@@ -80,6 +80,10 @@ a:hover {
 .home__banner img {
   height: 100vh;
 }
+.other__banner img{
+  height: 400px;
+  width: 100%;
+}
 
 /* =======================================
 
