@@ -3,7 +3,7 @@
             include("../private/required/header.php");
         
         ?>
-        <div class="body__banner other__banner">
+        <div class="body__banner half__banner">
             <div class="wrap__banner">
                 <div class="banner__mobile">
 
