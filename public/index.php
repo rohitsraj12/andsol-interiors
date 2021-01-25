@@ -3,7 +3,7 @@
             include("../private/required/header.php");
         
         ?>
-        <div class="body__banner home__banner">
+        <div class="body__banner full__banner">
             <div class="wrap__banner">
                 <!-- <div class="banner__mobile">
 
@@ -181,9 +181,17 @@
                                         We offer unparalleled services
                                     </h2>
                                 </div>
-                                <div class="service__slider mb-3">
-                                    <div class="service__slider-wrap">
-
+                                <div class="service__slider my-3">
+                                    <div class="service__slider-wrap row">
+                                        <figure class="col-sm-4">
+                                            <img src="img/project/service_01" alt="andsol interior services">
+                                        </figure>
+                                        <figure class="col-sm-4">
+                                            <img src="img/project/service_02" alt="andsol interior services">
+                                        </figure>
+                                        <figure class="col-sm-4">
+                                            <img src="img/project/service_03" alt="andsol interior services">
+                                        </figure>
                                     </div>
                                     <div class="service__slider-button text-center">
                                         <a href="service.php" class="hbtn hb-fill-middle hpad2 hbor1">View all services</a>
