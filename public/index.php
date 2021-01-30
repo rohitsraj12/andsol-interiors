@@ -184,13 +184,13 @@
                                 <div class="service__slider my-3">
                                     <div class="service__slider-wrap row">
                                         <figure class="col-sm-4">
-                                            <img src="img/project/service_01" alt="andsol interior services">
+                                            <img src="img/project/service_01.jpg" alt="andsol interior services">
                                         </figure>
                                         <figure class="col-sm-4">
-                                            <img src="img/project/service_02" alt="andsol interior services">
+                                            <img src="img/project/service_02.jpg" alt="andsol interior services">
                                         </figure>
                                         <figure class="col-sm-4">
-                                            <img src="img/project/service_03" alt="andsol interior services">
+                                            <img src="img/project/service_03.jpg" alt="andsol interior services">
                                         </figure>
                                     </div>
                                     <div class="service__slider-button text-center">
