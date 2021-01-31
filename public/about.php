@@ -84,7 +84,7 @@
                                                 Modular
                                             </h4>
                                         </header>
-                                        <ul class="text-left">
+                                        <ul class="offer__block-group text-center">
                                             <li>Kitchen</li>
                                             <li>Wardrobe</li>
                                             <li>Storage</li>
@@ -102,7 +102,7 @@
                                                 Furniture
                                             </h4>
                                         </header>
-                                        <ul class="text-left">
+                                        <ul class="offer__block-group text-center">
                                             <li>Beds</li>
                                             <li>Sofas</li>
                                             <li>Storage</li>
@@ -123,7 +123,7 @@
                                                 Furnishing and decor
                                             </h4>
                                         </header>
-                                        <ul class="text-left">
+                                        <ul class="offer__block-group text-center">
                                             <li>Furnishing</li>
                                             <li>Wall treatment</li>
                                             <li>Decor</li>
@@ -143,7 +143,7 @@
                                                 Home improvement services
                                             </h4>
                                         </header>
-                                        <ul class="text-left">
+                                        <ul class="offer__block-group text-center">
                                             <li>False ceiling</li>
                                             <li>Painting</li>
                                             <li>Bathroom remodeling</li>
@@ -175,7 +175,7 @@
                                     <article class="text-center border">
                                    
                                     <div class="article__body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
+                                        <p>Very good, knowledgeable staff. Appreciate their strong work ethics and well-versed personnel.</p>
                                     </div> 
                                     <div class="article__header px-4">
                                         <cite class="d-block">peter jefferson</cite>
@@ -186,7 +186,7 @@
                                     <article class="text-center border">
                                    
                                     <div class="article__body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eveniet aut at porro a consequatur sunt optio consequuntur laudantium ipsum.</p>
+                                        <p>They have got my project on time with competition well-organized and very experienced teamBrillant work was done by your designers. Going to recommend them to my friends & family!</p>
                                     </div> 
                                     <div class="article__header px-4">
                                         <cite class="d-block">peter jefferson</cite>
