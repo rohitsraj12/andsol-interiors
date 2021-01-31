@@ -30,7 +30,7 @@
                         <ul>
                             <li class="nav__list"><a href="index.php" class="nav__link">HOME</a></li>
                             <li class="nav__list"><a href="about.php" class="nav__link">ABOUT US</a></li>
-                            <li class="nav__list"><a href="project.php" class="nav__link">GALLERY</a></li>
+                            <li class="nav__list"><a href="gallery.php" class="nav__link">GALLERY</a></li>
                             <li class="nav__list"><a href="service.php" class="nav__link">SERVICES</a></li>
                             <li class="nav__list"><a href="contact.php" class="nav__link">CONTACT US</a></li>
                         </ul>
