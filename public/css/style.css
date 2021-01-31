@@ -101,7 +101,7 @@ a:hover {
   height: 40px;
   fill: #fc721e;
 }
-.offer__header {
+.offer__header, .service__header{
   text-align: center;
   font-family: "Barlow", sans-serif;
   font-size: 1.1rem;
@@ -299,7 +299,7 @@ a:hover {
 }
 .section__about-offer article{
   margin: 0 5px;
-  background-color: #dadada;
+  /* background-color: #dadada; */
   /* background-image: linear-gradient(rgba(231, 231, 231, 0.90), rgba(231, 228, 228, 0.90)), */
     /* url("../img/banner/slide.jpg"); */
   color: #e8e8e8;
@@ -342,6 +342,7 @@ a:hover {
 } */
 .section__about-offer ul li {
   color: #585858;
+  display: inline;
   padding: 5px 10px;
   border-bottom: 1px solid #d1d1d1;;
 }
