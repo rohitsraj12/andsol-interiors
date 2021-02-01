@@ -64,6 +64,34 @@
                     </div>                   
                 </section>
 
+                <section>
+                <div class="container">
+                    <div class="row">
+                        <article class="col-sm-6 bg-light">
+                            
+                                <header>
+                                    <h4>our vision</h4>
+                                </header>
+                                <div>
+                                    <p></p>
+                                </div>
+                            
+                        </article>
+                        <article class="col-sm-6">
+                                <header>
+                                    <h4>our mission</h4>
+                                </header>
+                                <div>
+                                    <p></p>
+                                </div>
+                          
+                            
+                        </article>
+                    </div>
+                </div>
+                  
+                </section>
+
                 <section class="section__about-offer">
                     <div class="container">
                         <div class="wrap__header py-4">
@@ -80,7 +108,7 @@
                                             <img src="img/icon/kitchen.png" class="offer__icon" alt="modular">
                                         </figure>
                                           <header>
-                                            <h4>
+                                            <h4 class="section__sub-header">
                                                 Modular
                                             </h4>
                                         </header>
@@ -98,7 +126,7 @@
                                             <img src="img/icon/furniture.png"  class="offer__icon" alt="furniture">
                                         </figure>
                                         <header>
-                                            <h4>
+                                            <h4 class="section__sub-header">
                                                 Furniture
                                             </h4>
                                         </header>
@@ -119,7 +147,7 @@
                                             <img src="img/icon/decoration.png" class="offer__icon"  alt="furnishing and decor">
                                         </figure>
                                         <header>
-                                            <h4>
+                                            <h4 class="section__sub-header">
                                                 Furnishing and decor
                                             </h4>
                                         </header>
@@ -139,7 +167,7 @@
                                             <img src="img/icon/wall.png" class="offer__icon" alt="home improvement services">
                                         </figure>
                                         <header>
-                                            <h4>
+                                            <h4 class="section__sub-header">
                                                 Home improvement services
                                             </h4>
                                         </header>
@@ -172,7 +200,7 @@
                         <div class="container ">
                             <div class="testimonial__section-content row">
                                 <blockquote class="col-md-6">
-                                    <article class="text-center border">
+                                    <article class="text-center p-5">
                                    
                                     <div class="article__body">
                                         <p>Very good, knowledgeable staff. Appreciate their strong work ethics and well-versed personnel.</p>
@@ -183,7 +211,7 @@
                                 </article>
                                 </blockquote>
                                 <blockquote class="col-md-6">
-                                    <article class="text-center border">
+                                    <article class="text-center p-5">
                                    
                                     <div class="article__body">
                                         <p>They have got my project on time with competition well-organized and very experienced teamBrillant work was done by your designers. Going to recommend them to my friends & family!</p>
