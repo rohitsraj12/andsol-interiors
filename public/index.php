@@ -5,9 +5,9 @@
         ?>
         <div class="body__banner full__banner">
             <div class="wrap__banner">
-                <!-- <div class="banner__mobile">
-
-                </div> -->
+                <div class="banner__mobile">
+                    <img class="w-100" src="img/banner/andsol-interiors-bangalore-banner-1.jpg" alt="best interiors in bangalore andsol interiors">
+                </div>
                 <!-- end banner mobile -->
                 <div class="banner__desktop">
                     <!-- <img src="img/banner/banner.jpg" alt="andsol interiors banner"> -->
@@ -183,36 +183,43 @@
                                 </div>
                                 <div class="service__slider my-3">
                                     <div class="service__slider-wrap row pb-5">
-                                        <article class="col-sm-4">
+                                        <div class="col-sm-4">
+                                              <article class="home__service-block">
                                             <figure >
                                                 <img src="img/project/service_01.jpg" alt="andsol interior services">
                                             </figure>
                                             <header>
-                                                <h2 class="service__header">
+                                                <h2 class="service__header section__sub-header">
                                                     Interior decorators
                                                 </h2>
                                             </header>
                                         </article>
-                                        <article class="col-sm-4">
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <article class="home__service-block">
                                             <figure>
                                                 <img src="img/project/service_02.jpg" alt="andsol interior services">
                                             </figure>
                                             <header>
-                                                <h2 class="service__header">
+                                                <h2 class="service__header section__sub-header">
                                                     3D interior designers
                                                 </h2>
                                             </header>
                                         </article>
-                                       <article class="col-sm-4">
+                                        </div>
+                                        <div class="col-sm-4">
+                                             <article class="home__service-block">
                                             <figure>
                                                 <img src="img/project/service_03.jpg" alt="andsol interior services">
                                             </figure>
                                             <header>
-                                                <h2 class="service__header">
+                                                <h2 class="service__header section__sub-header">
                                                     Residence
                                                 </h2>
                                             </header>
                                        </article>
+                                        </div>
+                                      
                                        
                                     </div>
                                     <div class="service__slider-button text-center">
