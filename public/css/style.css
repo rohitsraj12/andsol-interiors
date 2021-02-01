@@ -36,6 +36,10 @@ a:hover {
   color: #fc721e;
 }
 
+strong{
+  font-weight: normal;
+}
+
 .wrap__container {
   margin: 0 auto;
 }
@@ -49,15 +53,7 @@ a:hover {
   font-family: "Barlow", sans-serif;
   font-size: 26px;
   font-weight: 500;
-}
-.top__space-p {
-  padding-top: 6rem;
-}
-.bottom__space-p {
-  padding-bottom: 6rem;
-}
-.space__py {
-  padding: 6rem 0;
+
 }
 /* =======================================
 
@@ -136,6 +132,19 @@ a:hover {
 .booking__section-header,
 .booking__section-footer {
   text-align: center;
+}
+.home__service-block{
+  margin: 20px;
+  padding: 4px;
+  border: 1px solid #e7e7e7;
+  border-radius: 4px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+}
+.service__header{
+}
+.home__service-block header{
+  border-top: 1px solid #e7e7e7;
+  padding: 20px 0 15px;
 }
 
 /* =======================================
@@ -303,7 +312,6 @@ a:hover {
   /* background-image: linear-gradient(rgba(231, 231, 231, 0.90), rgba(231, 228, 228, 0.90)), */
     /* url("../img/banner/slide.jpg"); */
   color: #e8e8e8;
-  border: 1px solid #d3d3d3;
   border-radius: 4px;
   transition: 300ms;
 }
@@ -336,15 +344,15 @@ a:hover {
 .section__about-offer h4 {
   font-family: var(--font-primary);
   font-size: 1.2rem;
+  color: var(--color-dark);
 }
 /* .section__about-offer ul li + li {
   margin-left: 20px;
 } */
 .section__about-offer ul li {
-  color: #585858;
+  color: #747373;
   display: inline;
   padding: 5px 10px;
-  border-bottom: 1px solid #d1d1d1;;
 }
 .section__about-offer .offer__icon{
   height: 60px;
@@ -354,7 +362,7 @@ a:hover {
     #testimonial
 
 ==========================================*/
-.section__testimonial {
+.section__testimonial, .section__about-testimonial {
   background-color: #000000;
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
     url("../img/banner/slide.jpg");
