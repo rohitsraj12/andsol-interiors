@@ -1,4 +1,14 @@
 @media (min-width: 769px) {
+  
+.top__space-p {
+  padding-top: 6rem;
+}
+.bottom__space-p {
+  padding-bottom: 6rem;
+}
+.space__py {
+  padding: 6rem 0;
+}
   .hamburger {
     display: none;
   }
@@ -83,6 +93,19 @@
 }
 
 @media (max-width: 768px) {
+
+  .top__space-p {
+    padding-top: 3rem;
+  }
+  .bottom__space-p {
+    padding-bottom: 3rem;
+  }
+  .space__py {
+    padding: 3rem 0;
+  }
+  .section__header{
+    text-align: center;
+  }
   .body__header header {
     width: 90%;
     margin: 0 auto;
@@ -129,6 +152,10 @@
     width: 33%;
     padding: 30px;
   }
+  .section__offer article{
+    padding-bottom: 30px;
+  }
+  
 
   /*==========================================
     
