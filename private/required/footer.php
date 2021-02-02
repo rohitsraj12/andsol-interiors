@@ -33,11 +33,11 @@
                                                     <i class="fa fa-twitter" aria-hidden="true"></i>
                                                 </a>
                                             </li>
-                                            <li class="footer__social-list">
+                                            <!-- <li class="footer__social-list">
                                                 <a href="#" target="_blank" class="footer__social-link">
                                                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                                                 </a>
-                                            </li>
+                                            </li> -->
                                         </ul>
                                     </div>
                                     <!-- end footer article body bottom -->
