@@ -124,6 +124,9 @@
                                     </ul>
                                 </div>
                             </article>
+                            <p class="text-light">
+                                Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+                            </p>
                         </div>
                     </section>
                 </div>
