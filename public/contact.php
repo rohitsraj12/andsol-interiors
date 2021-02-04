@@ -115,7 +115,7 @@
                                             <textarea name="comment" class="form-control" id="inputComment" placeholder="Your comment"></textarea>
                                         </div>
                                         <div class="col-12 pt-4">
-                                            <input type="submit" class="btn btn__primary" value="SEND MESSAGE">
+                                            <input type="submit" class="hbtn hb-fill-middle hpad2 hbor1" value="SEND MESSAGE">
                                         </div>
                                     </form>
                                     </div>
