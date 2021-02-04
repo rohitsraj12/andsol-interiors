@@ -75,12 +75,12 @@
                             <div class=" col-sm-6">
                                 <div class="wrap__header py-4">
                                     <h2 class="section__sub-header">
-                                    We Have The Right Products To Fit Your Needs And Budget Purchase - Andsol Interior.
+                                        PRODUCTS THAT FIT YOUR NEEDS AND ARE EASY ON YOUR POCKET
                                     </h2>
                                 </div>
                                 <div class="home__about-body">
                                     <p class="pb-4">
-                                        We, andsol interior, situated at Yellenahalli main road, Akshayanagar, bangalore, karnataka, operates in the fields of interior designing with a talented team of designers. we have successfully conceptualized and completed the interior designs of numerous residential, commercial projects as well as architectural projects. we have completed some of the finest designs with the help of our renowned designers.
+                                        With a talented team of designers, Andsol Interior are the pioneers in the field of Interior Designing. Our experienced designers have helped us conceptualize and complete numerous residential, commercial and architectural projects. 
                                     </p>
                                     <a href="about.php" class="hbtn hb-fill-middle hpad2 hbor1">Read More</a>
                                 </div>
@@ -247,10 +247,10 @@
                                     <article class="text-center border py-4 px-3">
                                    
                                     <div class="article__body">
-                                        <p>Very good, knowledgeable staff. Appreciate their strong work ethics and well-versed personnel.</p>
+                                        <p>In the beginning I was a bit worried as to how things would work out. I always dreamt of having the best interiors for my house and I just couldn’t let go of that. Thankfully the Andsol team understood my requirements and I finally have exactly what I needed for my home.</p>
                                     </div> 
                                     <div class="article__header px-4">
-                                        <cite class="d-block">peter jefferson</cite>
+                                        <cite class="d-block">Smita Saxena</cite>
                                     </div>
                                 </article>
                                 </blockquote>
@@ -258,10 +258,10 @@
                                     <article class="text-center border py-4 px-3">
                                    
                                     <div class="article__body">
-                                        <p>They have got my project on time with competition well-organized and very experienced teamBrillant work was done by your designers. Going to recommend them to my friends & family!</p>
+                                        <p>Andsol team has amazed me with their hard work and dedication. I love every bit of what they have done for my house. Me and my family are extremely excited about the look of our house.</p>
                                     </div> 
                                     <div class="article__header px-4">
-                                        <cite class="d-block">peter jefferson</cite>
+                                        <cite class="d-block">Tarun Dutta</cite>
                                     </div>
                                 </article>
                                 </blockquote>
