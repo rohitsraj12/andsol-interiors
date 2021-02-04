@@ -33,64 +33,66 @@
                         <div class="container">
                             <article class="faq__section-article">
                                 <header class="faq__header">
-                                        faq question?
+                                    1.	How is Andsol different from other interior designers?
                                     <span class="faq__icon">
                                         <i class="fa fa-sort-desc" aria-hidden="true"></i>
                                         <!-- <i class="fa fa-sort-asc" aria-hidden="true"></i> -->
                                     </span>
                                 </header>
                                 <footer class="faq__footer">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, deserunt!</p>
+                                    <p>
+                                        Andsol takes pride in having some of the best designers and creative minds on board who deliver some excellent results. We have finished all our projects on time giving our clients the best of our services. Our motto is NO COMPROMISING ON QUALITY AND COMMITMENT.
+                                    </p>
                                 </footer>
                             </article>
                             <article class="faq__section-article">
                                 <header class="faq__header">
-                                        faq question?
+                                    2.	What kind of spaces does Andsol design?
                                     <span class="faq__icon">
                                         <i class="fa fa-sort-desc" aria-hidden="true"></i>
                                         <!-- <i class="fa fa-sort-asc" aria-hidden="true"></i> -->
                                     </span>
                                 </header>
                                 <footer class="faq__footer">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, deserunt!</p>
+                                    <p>Andsol designs residential, commercial as well as architectural projects. </p>
                                 </footer>
                             </article>
                             <article class="faq__section-article">
                                 <header class="faq__header">
-                                        faq question?
+                                    3.	What is the payment policy for Andsol?
                                     <span class="faq__icon">
                                         <i class="fa fa-sort-desc" aria-hidden="true"></i>
                                         <!-- <i class="fa fa-sort-asc" aria-hidden="true"></i> -->
                                     </span>
                                 </header>
                                 <footer class="faq__footer">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, deserunt!</p>
+                                    <p> Andsol accepts for online and offline payment. We go with the policy of 50% advance and 50% after the work is completed. </p>
                                 </footer>
                             </article>
                             <article class="faq__section-article">
                                 <header class="faq__header">
-                                        faq question?
+                                    4.	Is there an option for No Cost EMI?
                                     <span class="faq__icon">
                                         <i class="fa fa-sort-desc" aria-hidden="true"></i>
                                         <!-- <i class="fa fa-sort-asc" aria-hidden="true"></i> -->
                                     </span>
                                 </header>
                                 <footer class="faq__footer">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, deserunt!</p>
+                                    <p>Yes to make things easy on your pocket and give you the home you want, we do have the option of No Cost EMI.</p>
                                 </footer>
                             </article>
-                            <article class="faq__section-article">
+                            <!-- <article class="faq__section-article">
                                 <header class="faq__header">
                                         faq question?
                                     <span class="faq__icon">
                                         <i class="fa fa-sort-desc" aria-hidden="true"></i>
-                                        <!-- <i class="fa fa-sort-asc" aria-hidden="true"></i> -->
-                                    </span>
+                                         <i class="fa fa-sort-asc" aria-hidden="true"></i> -->
+                                    <!-- </span>
                                 </header>
                                 <footer class="faq__footer">
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, deserunt!</p>
                                 </footer>
-                            </article>
+                            </article> -->
                         </div>
                     </div>
                 </section>
