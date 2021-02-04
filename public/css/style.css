@@ -6,6 +6,8 @@
   --color-theme: #fe6600;
   --color-dark: #212529;
 
+  --color-theme-one:  rgba(114,85,159,1);
+  --color-theme-two: rgba(203,43,118,1);
   --color-light-gray: #f5f5f5;
   --color-dark-gray: #5c5c5c;
 
@@ -13,6 +15,9 @@
   --color-text-2: #999;
 
   --font-primary: "Barlow", sans-serif;
+
+  /* background: rgb(203,43,118);
+background: linear-gradient(237deg, rgba(203,43,118,1) 0%, rgba(114,85,159,1) 100%); */
 }
 
 *,
@@ -33,7 +38,7 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #fc721e;
+  color: var(--color-theme-two);
 }
 
 strong{
@@ -64,7 +69,8 @@ strong{
   font-family: "Barlow", sans-serif;
   font-size: 1rem;
   font-weight: 500;
-  color: #273846;
+  color: var(--color-theme-one);
+  /* color: #273846; */
   text-transform: capitalize;
 }
 
@@ -237,28 +243,36 @@ strong{
 
 ==========================================*/
 .contact__section-left {
-  background-color: #666666;
+  /* background-color: #666666; */
+  background-color: #000000;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)),
+    url("../img/banner/slide.jpg");
 }
 .span__header {
   font-size: 20px;
   font-weight: 600;
 }
+
 .wrap__contact-section {
   box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.15);
 }
+
 .contact__details li {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
 }
+
 .contact__details-icon i {
   font-size: 25px;
   color: #fc721e;
   padding: 5px 15px 0 30px;
 }
+
 .contact__details-link {
   display: block;
 }
+
 .contact__details-link:hover {
   color: #fc721e;
 }
