@@ -45,20 +45,26 @@
                                     <div class="section__right-body">
                                         <div class="about__deginers">
                                             <p>
-                                                Give life to your dream home through Andsol interiors. Buying a home is one of the long term and precious dream for everyone. now it is easy for everyone to buy their dream home in many easy ways. Well, adding life to the dream home is very important we Andsol Interiors p in addinhelg life to your dream home with our stunning interior designing experts and their innovative ideas. We Andsol Interiors have handpicked experts who are highly talented in interior designing field. We have best interior designers and decorators who are experts in adding bright and beautiful colors and marvelous properties to your dream home. Our designers employ with innovative ideas that adds more beauty to your home.
+                                                With a talented team of designers, Andsol Interior are the pioneers in the field of Interior Designing. Our experienced designers have helped us conceptualize and complete numerous residential, commercial and architectural projects. 
                                             </p>
-                                            <p>
-                                            We always aim to make your home classy, simple, sophisticated and the best place to live. We always keep our customer priority in the top position, we invest valuable time in knowing their ideas, wishes, likes and dislikes while designing the interiors to their home. We always concentrate in offering great and creative services to our clients. Each element we choose to design your home contains great quality with astonishing beauty. We are experts in 3d designing, ceiling designs, interior designing, and PVC interior designing for all the commercial and residential properties. Andsol is one of the rapid developing interior designing companies who always aims to deliver the best for clients. We have 6+ years of experience in the interior desiging filed and we are proud that we have successfully completed more than 30 projects. Talk to us to add beauty to yoru dream home.
-                                            </p>
+                                           <P>
+                                           At Andsol Interiors we make sure to take you closer to your dream home. Our stunning interiors, innovative ideas and designing experts help you design your home the way you want it. 
+                                           </P>
+                                           <P>
+                                                We always aim to make your home classy, simple yet sophisticated and the best place to live in. Our customers are our priority and we invest a lot of time in knowing their ideas, wishes, likes and dislikes while designing the interiors of their homes. Our motto is to offer creative services to all our clients. At Andsol Interiors, we believe in giving quality products with great beauty.
+                                           </P>
+                                           <P>
+                                                We are experts in 3d designing, ceiling designs, interior designing, and PVC interior designing. Andsol is one of the rapidly developing interior designing companies who aims to deliver the best for clients. We have a 6+ years of experience in interior designing and we are proud to have successfully completed more than 30 projects. 
+                                           </P>
                                         </div>
                                     </div>
-                                    <div class="section__right-footer">
+                                    <!-- <div class="section__right-footer">
                                         <ul class="design__types">
                                             <li class="design__types-list">Architecture</li>
                                             <li class="design__types-list">Interior design</li>
                                             <li class="design__types-list">Furniture</li>
                                         </ul>
-                                    </div>
+                                    </div> -->
                                 </div>
                         </div>
                     </div>                   
@@ -73,7 +79,7 @@
                                     <h4>our vision</h4>
                                 </header>
                                 <div>
-                                    <p></p>
+                                    <p>To be the leaders in the domain delivering some of the best and quality projects to our clients.</p>
                                 </div>
                             
                         </article>
@@ -82,7 +88,7 @@
                                     <h4>our mission</h4>
                                 </header>
                                 <div>
-                                    <p></p>
+                                    <p>To be the leaders in the domain delivering some of the best and quality projects to our clients.</p>
                                 </div>
                           
                             
@@ -203,10 +209,10 @@
                                     <article class="text-center p-5">
                                    
                                     <div class="article__body">
-                                        <p>Very good, knowledgeable staff. Appreciate their strong work ethics and well-versed personnel.</p>
+                                        <p>In the beginning I was a bit worried as to how things would work out. I always dreamt of having the best interiors for my house and I just couldn’t let go of that. Thankfully the Andsol team understood my requirements and I finally have exactly what I needed for my home.</p>
                                     </div> 
                                     <div class="article__header px-4">
-                                        <cite class="d-block">peter jefferson</cite>
+                                        <cite class="d-block">Smita Saxena</cite>
                                     </div>
                                 </article>
                                 </blockquote>
@@ -214,10 +220,10 @@
                                     <article class="text-center p-5">
                                    
                                     <div class="article__body">
-                                        <p>They have got my project on time with competition well-organized and very experienced teamBrillant work was done by your designers. Going to recommend them to my friends & family!</p>
+                                        <p>Andsol team has amazed me with their hard work and dedication. I love every bit of what they have done for my house. Me and my family are extremely excited about the look of our house.</p>
                                     </div> 
                                     <div class="article__header px-4">
-                                        <cite class="d-block">peter jefferson</cite>
+                                        <cite class="d-block">Tarun Dutta</cite>
                                     </div>
                                 </article>
                                 </blockquote>
