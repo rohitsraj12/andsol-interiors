@@ -454,7 +454,11 @@ strong{
 }
 
 
-/* gallery section */
+/* =======================================
+
+    #gallery page
+
+==========================================*/
 
 
 .gallery__grid {
@@ -580,4 +584,16 @@ strong{
 }
 .gallery__grid .box.h {
   grid-column: span 1;
+}
+
+
+/* =======================================
+
+    #terms and conditions section
+
+==========================================*/
+
+.terms__conditions-body p{
+  font-family: "Barlow", sans-serif;
+  font-size: 16px;
 }
