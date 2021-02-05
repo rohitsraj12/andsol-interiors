@@ -21,7 +21,7 @@
 
         <div class="body__container">
             <main>
-                <section class="section__offer py-5">
+                <section class="section__gallery py-5">
                     <div class="container">
                         <div class="wrap__header py-4">
                             <h2 class="section__header">
