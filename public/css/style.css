@@ -146,8 +146,6 @@ strong{
   border-radius: 4px;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
 }
-.service__header{
-}
 .home__service-block header{
   border-top: 1px solid #e7e7e7;
   padding: 20px 0 15px;
@@ -222,8 +220,8 @@ strong{
 }
 .footer__quick-links-list a:hover,
 .footer__contact a:hover,
-.footer__social-link i:hover {
-  color: #fc721e;
+.footer__social-link i:hover{
+  color: var(--color-theme-one);
 }
 
 .btn__primary {
@@ -235,6 +233,16 @@ strong{
 .btn__primary:hover {
   background-color: #fc721e;
   color: #ffffff;
+}
+
+.footer__bottom ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.footer__bottom ul li{
+  padding: 0 40px 0 0;
 }
 
 /* =======================================
@@ -594,6 +602,6 @@ strong{
 ==========================================*/
 
 .terms__conditions-body p{
-  font-family: "Barlow", sans-serif;
+  font-family: var(--font-primary);
   font-size: 16px;
 }
