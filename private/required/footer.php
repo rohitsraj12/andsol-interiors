@@ -124,9 +124,20 @@
                                     </ul>
                                 </div>
                             </article>
-                            <p class="text-light">
-                                Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                            </p>
+                            <div class="footer__bottom">
+                                <ul>
+                                    <li class="footer__bottom-list">
+                                        <p class="text-light">
+                                            Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+                                        </p>
+                                    </li>
+                                    <li class="footer__bottom-list">
+                                        <a href="../../andsol-interiors/public/terms_&_conditions.php" class="footer__bottom-link text-light">Terms And Conditions</a>
+                                    </li>
+                                </ul>
+                            
+                            </div>
+                           
                         </div>
                     </section>
                 </div>
