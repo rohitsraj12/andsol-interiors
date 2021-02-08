@@ -19,17 +19,17 @@
                                     <div class="footer__article-body-bottom">
                                         <ul class="footer__social">
                                             <li class="footer__social-list">
-                                                <a href="#" target="_blank" class="footer__social-link">
+                                                <a href="https://www.facebook.com/andsolinteriors/" target="_blank" class="footer__social-link">
                                                     <i class="fa fa-facebook" aria-hidden="true"></i>
                                                 </a>
                                             </li>
                                             <li class="footer__social-list">
-                                            <a href="#" target="_blank" class="footer__social-link">
-                                                <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                                            <a href="https://www.instagram.com/andsolinteriors/" target="_blank" class="footer__social-link">
+                                                <i class="fa fa-instagram" aria-hidden="true"></i>
                                             </a>
                                             </li>
                                             <li class="footer__social-list">
-                                                <a href="#" target="_blank" class="footer__social-link">
+                                                <a href="https://twitter.com/AndsolInteriors" target="_blank" class="footer__social-link">
                                                     <i class="fa fa-twitter" aria-hidden="true"></i>
                                                 </a>
                                             </li>
@@ -124,17 +124,11 @@
                                     </ul>
                                 </div>
                             </article>
-                            <div class="footer__bottom">
-                                <ul>
-                                    <li class="footer__bottom-list">
-                                        <p class="text-light">
-                                            Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                                        </p>
-                                    </li>
-                                    <li class="footer__bottom-list">
-                                        <a href="../../andsol-interiors/public/terms_&_conditions.php" class="footer__bottom-link text-light">Terms And Conditions</a>
-                                    </li>
-                                </ul>
+                            <div class="footer__bottom ">
+
+                                <p class="text-light text-center">
+                                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> <a href="../../andsol-interiors/public/terms_&_conditions.php" class="footer__bottom-link text-light">Terms And Conditions</a>
+                                </p>
                             
                             </div>
                            
@@ -163,7 +157,7 @@
                 
                     <div class="form-group">
                         <label for="name">Name</label>
-                        <input type="text" name="fname" class="form-control" id="name">
+                        <input type="text" name="name" class="form-control" id="name">
                     </div>
                     <div class="form-group">
                         <label for="phone">Phone</label>
