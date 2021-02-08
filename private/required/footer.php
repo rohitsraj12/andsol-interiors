@@ -144,7 +144,43 @@
             </footer>
         </div>
         <!-- end body footer -->
+        <div class="fixed__button">
+        <a href="#" class=" hbtn hb-fill-middle hpad2 hbor1" data-toggle="modal" data-target="#form">Enquire</a>
+    </div>
 
+    <!-- modal -->
+    <div class="modal fade" id="form" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title h3" id="exampleModalLabel">Enquire Now</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <form action="enquiry.php" method="POST">
+                <div class="modal-body">
+                
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" name="fname" class="form-control" id="name">
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Phone</label>
+                        <input type="tel" name="phone" class="form-control" id="phone">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" name="email" class="form-control" id="email">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" name="enquiry_submit" class="hbtn hb-fill-middle hpad2 hbor1">Submit</button>
+                </div>
+            </form>
+          </div>
+        </div>
+      </div>
     </div>
     <!-- end body wrap -->
 
