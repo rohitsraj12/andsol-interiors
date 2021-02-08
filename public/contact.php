@@ -93,7 +93,7 @@
                                         <h4 class="section__sub-header">send message us</h4>
                                     </div> -->
                                     <div class="article__body">
-                                    <form class="row g-3 px-5" method="POST" action="">
+                                    <form class="row g-3 px-5" method="POST" action="contact_form.php">
                                         <div class="col-12 pt-3">
                                             <label for="inputName" class="form-label">Name</label>
                                             <i class="fa fa-user-o contact__form-icon" aria-hidden="true"></i>
@@ -115,7 +115,7 @@
                                             <textarea name="comment" class="form-control" id="inputComment" placeholder="Your comment"></textarea>
                                         </div>
                                         <div class="col-12 pt-4">
-                                            <input type="submit" class="hbtn hb-fill-middle hpad2 hbor1" value="SEND MESSAGE">
+                                            <input type="submit" class="hbtn hb-fill-middle hpad2 hbor1" name="contact" value="SEND MESSAGE">
                                         </div>
                                     </form>
                                     </div>
