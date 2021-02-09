@@ -51,7 +51,7 @@
                                                 </div>
                                             
                                             </li>
-                                            <li class="pb-3">
+                                            <li class="pb-3 contact__details-list">
                                                 <div class="contact__details-icon">
                                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
                                                 </div>
