@@ -280,7 +280,7 @@ strong{
 }
 .contact__form-icon {
   font-size: 15px;
-  color: #fc721e;
+  color: var(--color-theme-one);
   position: absolute;
   left: 19px;
   top: 61px;
