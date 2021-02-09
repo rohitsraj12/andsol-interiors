@@ -124,10 +124,10 @@
                                     </ul>
                                 </div>
                             </article>
-                            <div class="footer__bottom ">
+                            <div class="footer__bottom text-center">
 
-                                <p class="text-light text-center">
-                                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> <a href="../../andsol-interiors/public/terms_&_conditions.php" class="footer__bottom-link text-light">Terms And Conditions</a>
+                                <p class="text-light">
+                                    Copyright &copy;<script>document.write(new Date().getFullYear());</script>  <a href="../../andsol-interiors/public/terms_&_conditions.php" class="footer__bottom-link text-light">Terms And Conditions</a>
                                 </p>
                             
                             </div>
