@@ -51,14 +51,14 @@
                                                 </div>
                                             
                                             </li>
-                                            <li class="pb-3 contact__details-list">
+                                            <li class="pb-3">
                                                 <div class="contact__details-icon">
                                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
                                                 </div>
                                                 <div>
                                                     <span class="mb-2 d-block span__header">General enquiries:</span>
-                                                    <a class="contact__details-link text-light" href="mailto:contact@andsolinteriors.com" target="_blank">contact@andsolinteriors.com</a>
-                                                    <a class="contact__details-link text-light" href="mailto:andsolv2v@gmail.com" target="_blank">andsolv2v@gmail.com</a>
+                                                    <a class="contact__details-link " href="mailto:contact@andsolinteriors.com" target="_blank">contact@andsolinteriors.com</a>
+                                                    <a class="contact__details-link " href="mailto:andsolv2v@gmail.com" target="_blank">andsolv2v@gmail.com</a>
                                                 </div>
                                                 
                                             </li>
@@ -69,8 +69,8 @@
                                                 </div>
                                                 <div class="">
                                                     <span class="mb-2 d-block span__header">Call us:</span>
-                                                    <a class="contact__details-link text-light" class="" href="tel:9945869856" target="_blank">+91-9945869856</a>
-                                                    <a class="contact__details-link text-light" class="" href="tel:9538832255" target="_blank">+91-9538832255</a>
+                                                    <a class="contact__details-link" class="" href="tel:9945869856" target="_blank">+91-9945869856</a>
+                                                    <a class="contact__details-link" class="" href="tel:9538832255" target="_blank">+91-9538832255</a>
                                                 </div>
                                                 
                                             </li>
