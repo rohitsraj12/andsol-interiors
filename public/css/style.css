@@ -101,7 +101,7 @@ strong{
 }
 .offer__icon {
   height: 40px;
-  fill: #fc721e;
+  fill: var(--color-theme-one);
 }
 .offer__header, .service__header{
   text-align: center;
@@ -224,16 +224,6 @@ strong{
   color: var(--color-theme-one);
 }
 
-.btn__primary {
-  padding: 10px;
-  border: 2px solid #fc721e;
-  background-color: #ffffff;
-}
-
-.btn__primary:hover {
-  background-color: #fc721e;
-  color: #ffffff;
-}
 
 /* =======================================
 
@@ -263,7 +253,7 @@ strong{
 
 .contact__details-icon i {
   font-size: 25px;
-  color: #fc721e;
+  color: var(--color-theme-one);
   padding: 5px 15px 0 30px;
 }
 
@@ -272,7 +262,7 @@ strong{
 }
 
 .contact__details-link:hover {
-  color: #fc721e;
+  color: var(--color-theme-two);
 }
 .form-control {
   position: relative;
