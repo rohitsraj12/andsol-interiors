@@ -34,7 +34,7 @@
                                 <article class="service__section-article">
                                     <div class="wrap__section-article">
                                         <figure class="service__image">
-                                            <img src="img/project/service_01.jpg" alt="services">
+                                            <img src="img/project/Andsol Post REV 3a2.jpg" alt="services">
                                         </figure>
                                         <div class="service__detail py-3 px-2">
                                             <figure>
@@ -52,7 +52,7 @@
                                 <article class="service__section-article">
                                     <div class="wrap__section-article">
                                         <figure class="service__image">
-                                            <img src="img/project/service_02.jpg" alt="services">
+                                            <img src="img/project/Andsol Post REV 3a2.jpg" alt="services">
                                         </figure>
                                         <div class="service__detail py-3 px-2">
                                             <figure>
@@ -70,7 +70,7 @@
                                 <article class="service__section-article">
                                     <div class="wrap__section-article">
                                         <figure class="service__image">
-                                            <img src="img/project/service_03.jpg" alt="services">
+                                            <img src="img/project/Andsol Post REV 3a.jpg" alt="services">
                                         </figure>
                                         <div class="service__detail py-3 px-2">
                                             <figure>
@@ -88,7 +88,7 @@
                                 <article class="service__section-article">
                                     <div class="wrap__section-article">
                                         <figure class="service__image">
-                                            <img src="img/project/service_04.jpg" alt="services">
+                                            <img src="img/project/Andsol Post REV 3a4.jpg" alt="services">
                                         </figure>
                                         <div class="service__detail py-3 px-2">
                                             <figure>
@@ -106,7 +106,7 @@
                                 <article class="service__section-article">
                                     <div class="wrap__section-article">
                                         <figure class="service__image">
-                                            <img src="img/project/service_05.jpg" alt="services">
+                                            <img src="img/project/Andsol Post REV 3a5.jpg" alt="services">
                                         </figure>
                                         <div class="service__detail py-3 px-2">
                                             <figure>
@@ -125,7 +125,7 @@
                                 <article class="service__section-article">
                                     <div class="wrap__section-article">
                                         <figure class="service__image">
-                                            <img src="img/project/service_02.jpg" alt="services">
+                                            <img src="img/project/Andsol Post REV 3a2.jpg" alt="services">
                                         </figure>
                                         <div class="service__detail py-3 px-2">
                                             <figure>
@@ -143,7 +143,7 @@
                                 <article class="service__section-article">
                                     <div class="wrap__section-article">
                                         <figure class="service__image">
-                                            <img src="img/project/service_04.jpg" alt="services">
+                                            <img src="img/project/Andsol Post REV 3a2.jpg" alt="services">
                                         </figure>
                                         <div class="service__detail py-3 px-2">
                                             <figure>
