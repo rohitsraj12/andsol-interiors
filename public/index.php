@@ -69,7 +69,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <figure>
-                                    <img src="img/project/about.jpg" alt="about" class="w-100" height="400px">
+                                    <img src="img/project/Andsol Post REV 3a3.jpg" alt="about" class="w-100" height="400px">
                                 </figure>
                             </div>
                             <div class=" col-sm-6">
@@ -186,7 +186,7 @@
                                         <div class="col-sm-4">
                                               <article class="home__service-block">
                                             <figure >
-                                                <img src="img/project/service_01.jpg" alt="andsol interior services">
+                                                <img src="img/project/Andsol Post REV 3a.jpg" alt="andsol interior services">
                                             </figure>
                                             <header>
                                                 <h2 class="service__header section__sub-header">
@@ -198,7 +198,7 @@
                                         <div class="col-sm-4">
                                             <article class="home__service-block">
                                             <figure>
-                                                <img src="img/project/service_02.jpg" alt="andsol interior services">
+                                                <img src="img/project/Andsol Post REV 3a2.jpg" alt="andsol interior services">
                                             </figure>
                                             <header>
                                                 <h2 class="service__header section__sub-header">
@@ -210,7 +210,7 @@
                                         <div class="col-sm-4">
                                              <article class="home__service-block">
                                             <figure>
-                                                <img src="img/project/service_03.jpg" alt="andsol interior services">
+                                                <img src="img/project/Andsol Post REV 3a3.jpg" alt="andsol interior services">
                                             </figure>
                                             <header>
                                                 <h2 class="service__header section__sub-header">
@@ -244,7 +244,7 @@
                         <div class="container ">
                             <div class="testimonial__section-content row">
                                 <blockquote class="col-md-6">
-                                    <article class="text-center border py-4 px-3">
+                                    <article class="text-center py-4 px-3">
                                    
                                     <div class="article__body">
                                         <p>In the beginning I was a bit worried as to how things would work out. I always dreamt of having the best interiors for my house and I just couldn’t let go of that. Thankfully the Andsol team understood my requirements and I finally have exactly what I needed for my home.</p>
@@ -255,7 +255,7 @@
                                 </article>
                                 </blockquote>
                                 <blockquote class="col-md-6">
-                                    <article class="text-center border py-4 px-3">
+                                    <article class="text-center py-4 px-3">
                                    
                                     <div class="article__body">
                                         <p>Andsol team has amazed me with their hard work and dedication. I love every bit of what they have done for my house. Me and my family are extremely excited about the look of our house.</p>
