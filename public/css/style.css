@@ -259,10 +259,12 @@ strong{
 
 .contact__details-link {
   display: block;
+  color: #ffffff;
+  transition: 300ms;
 }
 
 .contact__details-link:hover {
-  color: var(--color-theme-two);
+  color: var(--color-theme-one);
 }
 .form-control {
   position: relative;
