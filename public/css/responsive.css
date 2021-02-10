@@ -163,6 +163,7 @@
     
     =========================================*/
   .wrap__contact-section > div {
+    margin: auto;
     display: flex;
     flex-direction: column-reverse;
     justify-content: center;
