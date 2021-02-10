@@ -157,7 +157,7 @@ viewBox="0 0 233 80"
                             </article>
                             <div class="footer__bottom text-center">
 
-                                <p class="text-light">
+                                <p class="text-light pb-5">
                                     Copyright &copy;<script>document.write(new Date().getFullYear());</script>  <a href="../../andsol-interiors/public/terms_&_conditions.php" class="footer__bottom-link text-light">Terms And Conditions</a>
                                 </p>
                             
