@@ -73,7 +73,7 @@
                 <section>
                 <div class="container">
                     <div class="row">
-                        <article class="col-sm-6 bg-light">
+                        <article class="col-sm-6 bg-light p-2">
                             
                                 <header>
                                     <h4>our vision</h4>
@@ -83,7 +83,7 @@
                                 </div>
                             
                         </article>
-                        <article class="col-sm-6">
+                        <article class="col-sm-6 p-2">
                                 <header>
                                     <h4>our mission</h4>
                                 </header>
