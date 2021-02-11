@@ -221,7 +221,7 @@ strong{
 .footer__quick-links-list a:hover,
 .footer__contact a:hover,
 .footer__social-link i:hover{
-  color: var(--color-theme-one);
+  color: var(--color-theme-two);
 }
 
 
@@ -264,7 +264,7 @@ strong{
 }
 
 .contact__details-link:hover {
-  color: var(--color-theme-one);
+  color: var(--color-theme-two);
 }
 .form-control {
   position: relative;
