@@ -193,6 +193,15 @@
     flex-direction: column-reverse;
     justify-content: center;
   }
+
+  /*==========================================
+    
+        #footer section
+    
+    =========================================*/
+  .footer__bottom{
+    padding-bottom: 50px;
+  }
 }
 
 
