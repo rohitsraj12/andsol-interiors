@@ -1,4 +1,7 @@
 <?php
+   $page_title = "Service";
+   $page_meta_key = "";
+   $page_meta_description = "";
     include("../private/required/header.php");
 
 ?>
