@@ -6,9 +6,7 @@
                             <article class="col-sm-4">
                                 <header class="footer__article-header">
                                     <a href="index.php">
-                                    <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+                                    
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="233px" height="80px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 233 80"
  xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -157,7 +155,7 @@ viewBox="0 0 233 80"
                             </article>
                             <div class="footer__bottom text-center">
 
-                                <p class="text-light pb-5">
+                                <p class="text-light">
                                     Copyright &copy;<script>document.write(new Date().getFullYear());</script>  <a href="../../andsol-interiors/public/terms_&_conditions.php" class="footer__bottom-link text-light">Terms And Conditions</a>
                                 </p>
                             
