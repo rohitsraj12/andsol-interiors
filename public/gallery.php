@@ -1,5 +1,8 @@
 
         <?php
+           $page_title = "Gallery";
+           $page_meta_key = "";
+           $page_meta_description = "";
             include("../private/required/header.php");
         
         ?>
