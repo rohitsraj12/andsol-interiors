@@ -1,4 +1,7 @@
 <?php
+   $page_title = "Terms and Conditions";
+   $page_meta_key = "";
+   $page_meta_description = "";
     include("../private/required/header.php");
 ?>
 <div class="body__container pt-5">
