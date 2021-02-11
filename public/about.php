@@ -1,5 +1,8 @@
        
         <?php
+               $page_title = "About us";
+               $page_meta_key = "";
+               $page_meta_description = "";
             include("../private/required/header.php");
         
         ?>
@@ -44,9 +47,9 @@
                                     </div> -->
                                     <div class="section__right-body">
                                         <div class="about__deginers">
-                                            <p>
+                                            <!-- <p>
                                                 With a talented team of designers, Andsol Interior are the pioneers in the field of Interior Designing. Our experienced designers have helped us conceptualize and complete numerous residential, commercial and architectural projects. 
-                                            </p>
+                                            </p> -->
                                            <P>
                                            At Andsol Interiors we make sure to take you closer to your dream home. Our stunning interiors, innovative ideas and designing experts help you design your home the way you want it. 
                                            </P>
