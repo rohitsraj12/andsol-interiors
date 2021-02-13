@@ -1,0 +1,9 @@
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^andsolinteriors\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.andsolinteriors\.com$
+RewriteRule ^/?$ "https\:\/\/andsolinteriors\.com\/" [R=301,L]
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
