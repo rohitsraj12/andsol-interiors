@@ -1,8 +1,8 @@
        
         <?php
-               $page_title = "About us";
+               $page_title = "About Andsol Home Interior Designers in Bangalore";
                $page_meta_key = "";
-               $page_meta_description = "";
+               $page_meta_description = "At Andsol Interiors, our stunning interiors, innovative ideas, and designing experts help you design your home.";
             include("../private/required/header.php");
         
         ?>
