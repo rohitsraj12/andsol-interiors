@@ -41,10 +41,6 @@
                                 <a class="box a fancybox" href="img/project/service_01.jpg">
                                     <img src="img/project/service_01.jpg" alt="" />
                                     <header>
-                                        <p>
-                                            Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur adipisicing.
-                                        </p>
-                                        
                                         <h2 class="gallery__header">
                                             bannerghatta road
                                         </h2>
@@ -55,10 +51,7 @@
                                         <img src="img/project/service_02.jpg" alt="" />
                                     
                                         <header>
-                                            <p>
-                                                Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet cng.
-                                            </p>
-                                            
+                                          
                                             <h2 class="gallery__header">
                                                 bannerghatta road
                                             </h2>
@@ -68,11 +61,7 @@
                                     <img src="img/project/service_03.jpg" alt="" />
                                     
                                     <header>
-                                        
-                                        <p>
-                                            Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet cng.
-                                        </p>
-                                        
+                                    
                                         <h2 class="gallery__header">
                                             bannerghatta road
                                         </h2>
@@ -83,10 +72,6 @@
                                     
                                     <header>
                                         
-                                        <p>
-                                            Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet cng.
-                                        </p>
-                                        
                                         <h2 class="gallery__header">
                                             bannerghatta road
                                         </h2>
@@ -96,11 +81,7 @@
                                     <img src="img/project/service_05.jpg" alt="" />
                                     
                                     <header>
-                                        
-                                        <p>
-                                            Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet cng.
-                                        </p>
-                                        
+                                   
                                         <h2 class="gallery__header">
                                             bannerghatta road
                                         </h2>
@@ -110,11 +91,7 @@
                                     <img src="img/project/service_01.jpg" alt="" />
                                     
                                     <header>
-                                        
-                                        <p>
-                                            Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet cng.
-                                        </p>
-                                        
+                                   
                                         <h2 class="gallery__header">
                                             bannerghatta road
                                         </h2>
@@ -124,11 +101,7 @@
                                     <img src="img/project/service_02.jpg" alt="" />
                                     
                                     <header>
-                                        
-                                        <p>
-                                            Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet cng.
-                                        </p>
-                                        
+                                     
                                         <h2 class="gallery__header">
                                             bannerghatta road
                                         </h2>
@@ -138,11 +111,7 @@
                                     <img src="img/project/service_03.jpg" alt="" />
                                     
                                     <header>
-                                        
-                                        <p>
-                                            Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet cng.
-                                        </p>
-                                        
+                                     
                                         <h2 class="gallery__header">
                                             bannerghatta road
                                         </h2>
@@ -152,11 +121,7 @@
                                     <img src="img/project/service_04.jpg" alt="" />
                                     
                                     <header>
-                                        
-                                        <p>
-                                            Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet cng.
-                                        </p>
-                                        
+                                    
                                         <h2 class="gallery__header">
                                             bannerghatta road
                                         </h2>
@@ -166,10 +131,6 @@
                                     <img src="img/project/service_04.jpg" alt="" />
                                     
                                     <header>
-                                        
-                                        <p>
-                                            Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet cng.
-                                        </p>
                                         
                                         <h2 class="gallery__header">
                                             bannerghatta road
