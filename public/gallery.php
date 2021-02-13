@@ -1,8 +1,8 @@
 
         <?php
-           $page_title = "Gallery";
+           $page_title = "Gallery of Andsol Interiors in Bangalore";
            $page_meta_key = "";
-           $page_meta_description = "";
+           $page_meta_description = "Design your dream house with our stunning designs, look into our gallery pictures for more ideas.";
             include("../private/required/header.php");
         
         ?>
