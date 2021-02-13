@@ -1,9 +1,13 @@
-
 RewriteEngine on
-RewriteCond %{HTTPS} off
-RewriteCond %{HTTP:X-Forwarded-SSL} !on
-RewriteCond %{HTTP_HOST} ^andsolinteriors\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.andsolinteriors\.com$
-RewriteRule ^/?$ "https\:\/\/andsolinteriors\.com\/" [R=301,L]
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME} !-REQUEST_FILENAME
+#RewriteRule ^([^\.]+)$ $1.php [NC, L]
+
+RewriteRule ^index$ index.php [L]
+RewriteRule ^about$ about.php [L]
+RewriteRule ^gallery$ gallery.php [L]
+RewriteRule ^service$ service.php [L]
+RewriteRule ^contact$ contact.php [L]
+RewriteRule ^faq$ faq.php [L]
+RewriteRule ^terms_&_conditions$ terms_&_conditions.php [L]
