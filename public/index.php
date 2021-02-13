@@ -85,7 +85,7 @@
                                     <p class="pb-4">
                                         With a talented team of designers, Andsol Interior are the pioneers in the field of Interior Designing. Our experienced designers have helped us conceptualize and complete numerous residential, commercial and architectural projects. 
                                     </p>
-                                    <a href="about.php" class="hbtn hb-fill-middle hpad2 hbor1">Read More</a>
+                                    <a href="about" class="hbtn hb-fill-middle hpad2 hbor1">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -188,45 +188,45 @@
                                     <div class="service__slider-wrap row pb-5">
                                         <div class="col-sm-4">
                                               <article class="home__service-block">
-                                            <figure >
-                                                <img src="img/project/Andsol Post REV 3a.jpg" alt="andsol interior services">
-                                            </figure>
-                                            <header>
-                                                <h2 class="service__header section__sub-header">
-                                                    Interior decorators
-                                                </h2>
-                                            </header>
-                                        </article>
+                                                <figure >
+                                                    <img src="img/project/Andsol Post REV 3a.jpg" alt="andsol interior services">
+                                                </figure>
+                                                <header>
+                                                    <h2 class="service__header section__sub-header">
+                                                        Interior decorators
+                                                    </h2>
+                                                </header>
+                                            </article>
                                         </div>
                                         <div class="col-sm-4">
                                             <article class="home__service-block">
-                                            <figure>
-                                                <img src="img/project/Andsol Post REV 3a2.jpg" alt="andsol interior services">
-                                            </figure>
-                                            <header>
-                                                <h2 class="service__header section__sub-header">
-                                                    3D interior designers
-                                                </h2>
-                                            </header>
-                                        </article>
+                                                <figure>
+                                                    <img src="img/project/Andsol Post REV 3a2.jpg" alt="andsol interior services">
+                                                </figure>
+                                                <header>
+                                                    <h2 class="service__header section__sub-header">
+                                                        3D interior designers
+                                                    </h2>
+                                                </header>
+                                            </article>
                                         </div>
                                         <div class="col-sm-4">
                                              <article class="home__service-block">
-                                            <figure>
-                                                <img src="img/project/Andsol Post REV 3a3.jpg" alt="andsol interior services">
-                                            </figure>
-                                            <header>
-                                                <h2 class="service__header section__sub-header">
-                                                    Residence
-                                                </h2>
-                                            </header>
-                                       </article>
+                                                <figure>
+                                                    <img src="img/project/Andsol Post REV 3a3.jpg" alt="andsol interior services">
+                                                </figure>
+                                                <header>
+                                                    <h2 class="service__header section__sub-header">
+                                                        Residence
+                                                    </h2>
+                                                </header>
+                                            </article>
                                         </div>
                                       
                                        
                                     </div>
                                     <div class="service__slider-button text-center">
-                                        <a href="service.php" class="hbtn hb-fill-middle hpad2 hbor1">View all services</a>
+                                        <a href="service" class="hbtn hb-fill-middle hpad2 hbor1">View all services</a>
                                     </div>
                                 </div>               
                               
@@ -281,7 +281,7 @@
                             </h2>
                         </div>
                         <div class="booking__section-footer">
-                            <a href="index.php" class="hbtn hb-fill-middle hpad2 hbor1">GET STARTED</a>
+                            <button class="hbtn hb-fill-middle hpad2 hbor1" data-toggle="modal" data-target="#form">GET STARTED</button>
                         </div>
                     </div>
                 </section>
