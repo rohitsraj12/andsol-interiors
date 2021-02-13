@@ -1,8 +1,8 @@
 
         <?php
-            $page_title = "Home";
+            $page_title = "Best house interior designers in Bangalore-Andsol interiors";
             $page_meta_key = "";
-            $page_meta_description = "";
+            $page_meta_description = "We are the best house interior designers in Bangalore with a talented team of designers. Andsol Interior are the pioneers in the field of Interior Designing.";
             include("../private/required/header.php");
         
         ?>
