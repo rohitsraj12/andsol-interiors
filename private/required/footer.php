@@ -5,7 +5,7 @@
                         <div class="row">
                             <article class="col-sm-4">
                                 <header class="footer__article-header">
-                                    <a href="index.php">
+                                    <a href="index">
                                     
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="233px" height="80px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 233 80"
@@ -81,40 +81,29 @@ viewBox="0 0 233 80"
                                 <div>
                                     <ul class="footer__quick-links">
                                         <li class="footer__quick-links-list">
-                                            <a href="index.php">Home</a>
+                                            <a href="index">Home</a>
                                         </li>
                                         <li class="footer__quick-links-list">
-                                            <a href="about.php">About us</a>
+                                            <a href="about">About us</a>
                                         </li>
                                         <li class="footer__quick-links-list">
-                                            <a href="service.php">Services</a>
+                                            <a href="gallery">Gallery</a>
+                                        </li> 
+                                        <li class="footer__quick-links-list">
+                                            <a href="service">Services</a>
                                         </li>
                                         <li class="footer__quick-links-list">
-                                            <a href="contact.php">Contact us</a>
+                                            <a href="contact">Contact us</a>
                                         </li>
                                         <li class="footer__quick-links-list">
-                                            <a href="faq.php">FAQs</a>
+                                            <a href="faq">FAQs</a>
                                         </li>
                                         <li class="footer__quick-links-list">
-                                            <a href="contact.php">Site map</a>
+                                            <a href="#">Site map</a>
                                         </li>
                                     </ul>
                                 </div>
                             </article>
-                            <!-- <article class="col-sm-2">
-                                <header class="footer__article-header">
-                                    PROJECTS
-                                </header>
-                                <div>
-                                    <ul>
-                                        <li>1</li>
-                                        <li>2</li>
-                                        <li>3</li>
-                                        <li>4</li>
-                                        <li>5</li>
-                                    </ul>
-                                </div>
-                            </article> -->
                             <article class="col-sm-4">
                                 <header class="footer__article-header">
                                     GET IN TOUCH 
@@ -126,8 +115,8 @@ viewBox="0 0 233 80"
                                                 <i class="fa fa-phone" aria-hidden="true"></i>
                                             </div>
                                             <div class="right__block">
-                                                <a class="right__block-phone" href="tel:9945869856" target="_blank">+91-9945869856</a>
-                                                <a class="right__block-phone" href="tel:9538832255" target="_blank">+91-9538832255</a>
+                                                <a class="right__block-phone" href="tel:9964619124" target="_blank">+91-9964619124</a>
+                                                <a class="right__block-phone" href="tel:8197837643" target="_blank">+91-8197837643</a>
                                             </div>
                                         </li>
                                         <li class="footer__contact-list">
@@ -137,6 +126,7 @@ viewBox="0 0 233 80"
                                             <div class="right__block">
                                                 <a href="mailto:contact@andsolinteriors.com">contact@andsolinteriors.com</a>
                                                 <a href="mailto:andsolv2v@gmail.com">andsolv2v@gmail.com</a>
+                                                <a href="mailto:engrs.srbuildcon@gmail.com">engrs.srbuildcon@gmail.com</a>
                                             </div>
                                         </li>
                                         <li class="footer__contact-list">
@@ -145,7 +135,7 @@ viewBox="0 0 233 80"
                                             </div>
                                             <div class="right__block">
                                                 <address>
-                                                    6th cross, Yellenahalli main road, Akshayanagar,</br> near Karnataka bank, DLF Town, Bengaluru,</br> Karnataka 560114.
+                                                        #2221, 8th cross, Park street, </br> BSK 6th Stage, 4th Block, </br> Bangalore-506109   
                                                 </address>
                                             </div>
                                         </li>
