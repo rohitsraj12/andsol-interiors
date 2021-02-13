@@ -1,7 +1,7 @@
 <?php
-   $page_title = "Service";
+   $page_title = "Get Andsol Interiors services to design your dream home.";
    $page_meta_key = "";
-   $page_meta_description = "";
+   $page_meta_description = "Design your dream home kitchen, bedroom, living room and pooja room with Andsol Interiors for outstanding output more than your expectations.";
     include("../private/required/header.php");
 
 ?>
