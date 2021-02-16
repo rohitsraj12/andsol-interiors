@@ -1,7 +1,7 @@
 
         <?php
            $page_title = "Get in touch with Andsol Interiors for the best designing ideas.";
-           $page_meta_key = "best interior desig,best home interior design, best house interior design, modular kitchen designs, home decor design, small modular kitchen, best modular kitchen, latest modular kitchen designs, budget modular kitchen, best home designers, best interior for living room, best interior design for 3bhk flat, best indian interior designer, modern interior designers, living room best design, interior bedroom wall design, best australian interior designers, best budget interior design, ideal interior design for small houses, fallcelling design, dining hall designs, arch design for dining hall, hall partition designs between living dining";
+           $page_meta_key = "best interior desig, best home interior design, best house interior design, modular kitchen designs, home decor design, small modular kitchen, best modular kitchen, latest modular kitchen designs, budget modular kitchen, best home designers, best interior for living room, best interior design for 3bhk flat, best indian interior designer, modern interior designers, living room best design, interior bedroom wall design, best australian interior designers, best budget interior design, ideal interior design for small houses, fallcelling design, dining hall designs, arch design for dining hall, hall partition designs between living dining";
            $page_meta_description = "Contact us for the best and world-class interior services for your dream home at your location and get free 3D design for each booking.";
             include("../private/required/header.php");
         
@@ -62,7 +62,7 @@
                                                     <span class="mb-2 d-block span__header">General enquiries:</span>
                                                     <a class="contact__details-link " href="mailto:contact@andsolinteriors.com" target="_blank">contact@andsolinteriors.com</a>
                                                     <a class="contact__details-link " href="mailto:andsolv2v@gmail.com" target="_blank">andsolv2v@gmail.com</a>
-                                                    <a class="contact__details-link " href="mailto:engrs.srbuildcon@gmail.com" target="_blank">engrs.srbuildcon@gmail.com</a>
+                                                    <!-- <a class="contact__details-link " href="mailto:engrs.srbuildcon@gmail.com" target="_blank">engrs.srbuildcon@gmail.com</a> -->
                                                 </div>
                                                 
                                             </li>
@@ -73,7 +73,8 @@
                                                 </div>
                                                 <div class="">
                                                     <span class="mb-2 d-block span__header">Call us:</span>
-                                                    <a class="contact__details-link" href="tel:9964619124" target="_blank">+91-9964619124</a>
+                                                    <!-- <a class="contact__details-link" href="tel:9538832255" target="_blank">+91-9538832255</a>
+                                                    <a class="contact__details-link" href="tel:9945869856" target="_blank">+91-9945869856</a> -->
                                                     <a class="contact__details-link" href="tel:8197837643" target="_blank">+91-8197837643</a>
                                                 </div>
                                                 
