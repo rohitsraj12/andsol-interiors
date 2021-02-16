@@ -115,7 +115,8 @@ viewBox="0 0 233 80"
                                                 <i class="fa fa-phone" aria-hidden="true"></i>
                                             </div>
                                             <div class="right__block">
-                                                <a class="right__block-phone" href="tel:9964619124" target="_blank">+91-9964619124</a>
+                                                <!-- <a class="right__block-phone" href="tel:9538832255" target="_blank">+91-9538832255</a>
+                                                <a class="right__block-phone" href="tel:9945869856" target="_blank">+91-9945869856</a> -->
                                                 <a class="right__block-phone" href="tel:8197837643" target="_blank">+91-8197837643</a>
                                             </div>
                                         </li>
@@ -126,7 +127,7 @@ viewBox="0 0 233 80"
                                             <div class="right__block">
                                                 <a href="mailto:contact@andsolinteriors.com">contact@andsolinteriors.com</a>
                                                 <a href="mailto:andsolv2v@gmail.com">andsolv2v@gmail.com</a>
-                                                <a href="mailto:engrs.srbuildcon@gmail.com">engrs.srbuildcon@gmail.com</a>
+                                                <!-- <a href="mailto:engrs.srbuildcon@gmail.com">engrs.srbuildcon@gmail.com</a> -->
                                             </div>
                                         </li>
                                         <li class="footer__contact-list">
@@ -143,7 +144,7 @@ viewBox="0 0 233 80"
                                     </ul>
                                 </div>
                             </article>
-                            <div class="footer__bottom text-center">
+                            <div class="footer__bottom text-center mx-3">
 
                                 <p class="text-light">
                                     Copyright &copy;<script>document.write(new Date().getFullYear());</script>  <a href="../../andsol-interiors/public/terms_&_conditions.php" class="footer__bottom-link text-light">Terms And Conditions</a>
