@@ -1,7 +1,7 @@
 
         <?php
            $page_title = "Gallery of Andsol Interiors in Bangalore";
-           $page_meta_key = "best interior desig,best home interior design, best house interior design, modular kitchen designs, home decor design, small modular kitchen, best modular kitchen, latest modular kitchen designs, budget modular kitchen, best home designers, best interior for living room, best interior design for 3bhk flat, best indian interior designer, modern interior designers, living room best design, interior bedroom wall design, best australian interior designers, best budget interior design, ideal interior design for small houses, fallcelling design, dining hall designs, arch design for dining hall, hall partition designs between living dining";
+           $page_meta_key = "best interior desig, best home interior design, best house interior design, modular kitchen designs, home decor design, small modular kitchen, best modular kitchen, latest modular kitchen designs, budget modular kitchen, best home designers, best interior for living room, best interior design for 3bhk flat, best indian interior designer, modern interior designers, living room best design, interior bedroom wall design, best australian interior designers, best budget interior design, ideal interior design for small houses, fallcelling design, dining hall designs, arch design for dining hall, hall partition designs between living dining";
            $page_meta_description = "Design your dream house with our stunning designs, look into our gallery pictures for more ideas.";
             include("../private/required/header.php");
         
@@ -38,105 +38,105 @@
                         <div class="community__type">
                                           
                             <div class="gallery__grid gallery" >
-                                <a class="box a fancybox" href="img/project/service_01.jpg">
-                                    <img src="img/project/service_01.jpg" alt="" />
+                                <a class="box a fancybox" href="img/gallery/001.jpeg">
+                                    <img src="img/gallery/001.jpeg" alt="" />
                                     <header>
-                                        <h2 class="gallery__header">
+                                        <!-- <h2 class="gallery__header">
                                             bannerghatta road
-                                        </h2>
+                                        </h2> -->
                                     </header>
                                 </a>
-                                    <a class="box b fancybox" href="img/project/service_02.jpg">
+                                    <a class="box b fancybox" href="img/gallery/002.jpeg">
 
-                                        <img src="img/project/service_02.jpg" alt="" />
+                                        <img src="img/gallery/002.jpeg" alt="" />
                                     
                                         <header>
                                           
-                                            <h2 class="gallery__header">
+                                            <!-- <h2 class="gallery__header">
                                                 bannerghatta road
-                                            </h2>
+                                            </h2> -->
                                         </header>
                                     </a>
-                                <a class="box c fancybox" href="img/project/service_03.jpg">
-                                    <img src="img/project/service_03.jpg" alt="" />
+                                <a class="box c fancybox" href="img/gallery/003.jpeg">
+                                    <img src="img/gallery/003.jpeg" alt="" />
                                     
                                     <header>
                                     
-                                        <h2 class="gallery__header">
+                                        <!-- <h2 class="gallery__header">
                                             bannerghatta road
-                                        </h2>
+                                        </h2> -->
                                     </header>
                                 </a>
-                                <a class="box d fancybox" href="img/project/service_04.jpg">
-                                    <img src="img/project/service_04.jpg" alt="" />
+                                <a class="box d fancybox" href="img/gallery/004.jpeg">
+                                    <img src="img/gallery/004.jpeg" alt="" />
                                     
                                     <header>
                                         
-                                        <h2 class="gallery__header">
+                                        <!-- <h2 class="gallery__header">
                                             bannerghatta road
-                                        </h2>
+                                        </h2> -->
                                     </header>
                                 </a>
-                                <a class="box e fancybox"  href="img/project/service_05.jpg">
-                                    <img src="img/project/service_05.jpg" alt="" />
+                                <a class="box e fancybox"  href="img/gallery/005.jpeg">
+                                    <img src="img/gallery/005.jpeg" alt="" />
                                     
                                     <header>
                                    
-                                        <h2 class="gallery__header">
+                                        <!-- <h2 class="gallery__header">
                                             bannerghatta road
-                                        </h2>
+                                        </h2> -->
                                     </header>
                                 </a>
-                                <a class="box f fancybox" href="img/project/service_01.jpg">
-                                    <img src="img/project/service_01.jpg" alt="" />
+                                <a class="box f fancybox" href="img/gallery/006.jpeg">
+                                    <img src="img/gallery/006.jpeg" alt="" />
                                     
                                     <header>
                                    
-                                        <h2 class="gallery__header">
+                                        <!-- <h2 class="gallery__header">
                                             bannerghatta road
-                                        </h2>
+                                        </h2> -->
                                     </header>
                                 </a>
-                                <a class="box g fancybox" href="img/project/service_02.jpg">
-                                    <img src="img/project/service_02.jpg" alt="" />
+                                <a class="box g fancybox" href="img/gallery/007.jpeg">
+                                    <img src="img/gallery/007.jpeg" alt="" />
                                     
                                     <header>
                                      
-                                        <h2 class="gallery__header">
+                                        <!-- <h2 class="gallery__header">
                                             bannerghatta road
-                                        </h2>
+                                        </h2> -->
                                     </header>
                                 </a>
-                                <a class="box h fancybox" href="img/project/service_03.jpg">
-                                    <img src="img/project/service_03.jpg" alt="" />
+                                <a class="box h fancybox" href="img/gallery/008.jpeg">
+                                    <img src="img/gallery/008.jpeg" alt="" />
                                     
                                     <header>
                                      
-                                        <h2 class="gallery__header">
+                                        <!-- <h2 class="gallery__header">
                                             bannerghatta road
-                                        </h2>
+                                        </h2> -->
                                     </header>
                                 </a>
-                                <div class="box i fancybox" href="img/project/service_04.jpg">
-                                    <img src="img/project/service_04.jpg" alt="" />
+                                <a class="box i fancybox" href="img/gallery/009.jpeg">
+                                    <img src="img/gallery/009.jpeg" alt="" />
                                     
                                     <header>
                                     
-                                        <h2 class="gallery__header">
+                                        <!-- <h2 class="gallery__header">
                                             bannerghatta road
-                                        </h2>
+                                        </h2> -->
                                     </header>
-                                </div>
-                                <div class="box j  fancybox" href="img/project/service_04.jpg">
-                                    <img src="img/project/service_04.jpg" alt="" />
+                                </a>
+                                <a class="box j  fancybox" href="img/gallery/010.jpeg">
+                                    <img src="img/gallery/010.jpeg" alt="" />
                                     
                                     <header>
                                         
-                                        <h2 class="gallery__header">
+                                        <!-- <h2 class="gallery__header">
                                             bannerghatta road
-                                        </h2>
+                                        </h2> -->
                                     </header>
-                                </div>
+                                </a>
                             </div>
                         </div>
                     </div>
