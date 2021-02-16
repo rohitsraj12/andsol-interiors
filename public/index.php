@@ -1,7 +1,7 @@
 
         <?php
             $page_title = "Best house interior designers in Bangalore-Andsol interiors";
-            $page_meta_key = "best interior desig,best home interior design, best house interior design, modular kitchen designs, home decor design, small modular kitchen, best modular kitchen, latest modular kitchen designs, budget modular kitchen, best home designers, best interior for living room, best interior design for 3bhk flat, best indian interior designer, modern interior designers, living room best design, interior bedroom wall design, best australian interior designers, best budget interior design, ideal interior design for small houses, fallcelling design, dining hall designs, arch design for dining hall, hall partition designs between living dining";
+            $page_meta_key = "best interior desig, best home interior design, best house interior design, modular kitchen designs, home decor design, small modular kitchen, best modular kitchen, latest modular kitchen designs, budget modular kitchen, best home designers, best interior for living room, best interior design for 3bhk flat, best indian interior designer, modern interior designers, living room best design, interior bedroom wall design, best australian interior designers, best budget interior design, ideal interior design for small houses, fallcelling design, dining hall designs, arch design for dining hall, hall partition designs between living dining";
             $page_meta_description = "We are the best house interior designers in Bangalore with a talented team of designers. Andsol Interior are the pioneers in the field of Interior Designing.";
             include("../private/required/header.php");
         
