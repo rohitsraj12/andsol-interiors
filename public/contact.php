@@ -9,12 +9,7 @@
 
         <div class="body__banner half__banner">
             <div class="wrap__banner">
-                <div class="banner__mobile">
-
-                </div>
-                <!-- end banner mobile -->
-                <div class="banner__desktop">
-                  
+                <div class="banner__contact-us">
                     <!-- <img src="img/banner/banner.jpg" alt="andsol interiors banner"> -->
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.574438519333!2d77.51275341482096!3d12.87074029092206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae4155ab456ddb%3A0x8595cd3c481724e0!2sAndsol%20Interiors!5e0!3m2!1sen!2sin!4v1613208840404!5m2!1sen!2sin" class="w-100" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     </div>
