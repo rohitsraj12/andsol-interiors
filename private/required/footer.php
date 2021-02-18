@@ -87,11 +87,12 @@ viewBox="0 0 233 80"
                                             <a href="about">About us</a>
                                         </li>
                                         <li class="footer__quick-links-list">
+                                            <a href="services">Services</a>
+                                        </li>
+                                        <li class="footer__quick-links-list">
                                             <a href="gallery">Gallery</a>
                                         </li> 
-                                        <li class="footer__quick-links-list">
-                                            <a href="service">Services</a>
-                                        </li>
+                                        
                                         <li class="footer__quick-links-list">
                                             <a href="contact">Contact us</a>
                                         </li>
@@ -147,9 +148,8 @@ viewBox="0 0 233 80"
                             <div class="footer__bottom text-center mx-3">
 
                                 <p class="text-light">
-                                    Copyright &copy;<script>document.write(new Date().getFullYear());</script>  <a href="../../andsol-interiors/public/privacy_policy" class="footer__bottom-link text-light">Terms And Conditions</a>
+                                    Copyright &copy;<script>document.write(new Date().getFullYear());</script>  <a href="privacy_policy" class="footer__bottom-link text-light">Privacy policy</a>
                                 </p>
-                            
                             </div>
                            
                         </div>
