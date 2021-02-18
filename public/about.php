@@ -9,11 +9,11 @@
         <div class="body__banner half__banner">
             <div class="wrap__banner">
                 <div class="banner__mobile">
-
+                    <img src="img/banner/other-banner-sm.jpg" alt="andsol interiors banner">
                 </div>
                 <!-- end banner mobile -->
                 <div class="banner__desktop">
-                    <img src="img/banner/banner.jpg" alt="andsol interiors banner">
+                    <img src="img/banner/other-banner.jpg" alt="andsol interiors banner">
                 </div>
                 <!-- end desktop banner -->
             </div>
@@ -79,7 +79,7 @@
                         <article class="col-sm-6 bg-light p-2">
                             
                                 <header>
-                                    <h4>our vision</h4>
+                                    <h4 class="section__sub-header">OUR VISION</h4>
                                 </header>
                                 <div>
                                     <p>To be the leaders in the domain delivering some of the best and quality projects to our clients.</p>
@@ -88,7 +88,7 @@
                         </article>
                         <article class="col-sm-6 p-2">
                                 <header>
-                                    <h4>our mission</h4>
+                                    <h4 class="section__sub-header">OUR MISSION</h4>
                                 </header>
                                 <div>
                                     <p>To be the leaders in the domain delivering some of the best and quality projects to our clients.</p>
