@@ -10,11 +10,11 @@
         <div class="body__banner half__banner">
             <div class="wrap__banner">
                 <div class="banner__mobile">
-
+                    <img src="img/banner/other-banner-sm.jpg" alt="andsol interiors banner">
                 </div>
                 <!-- end banner mobile -->
                 <div class="banner__desktop">
-                    <img src="img/banner/banner.jpg" alt="andsol interiors banner">
+                    <img src="img/banner/other-banner.jpg" alt="andsol interiors banner">
                 </div>
                 <!-- end desktop banner -->
             </div>
