@@ -54,8 +54,8 @@
                         <ul>
                             <li class="nav__list"><a href="index" class="nav__link">HOME</a></li>
                             <li class="nav__list"><a href="about" class="nav__link">ABOUT US</a></li>
+                            <li class="nav__list"><a href="services" class="nav__link">SERVICES</a></li>
                             <li class="nav__list"><a href="gallery" class="nav__link">GALLERY</a></li>
-                            <li class="nav__list"><a href="service" class="nav__link">SERVICES</a></li>
                             <li class="nav__list"><a href="contact" class="nav__link">CONTACT US</a></li>
                         </ul>
                     </nav>
