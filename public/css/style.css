@@ -49,13 +49,13 @@ strong{
   margin: 0 auto;
 }
 .section__header {
-  font-family: "Barlow", sans-serif;
+  font-family:var(--font-primary);
   font-size: 36px;
   font-weight: 400;
   text-transform: uppercase;
 }
 .section__sub-header {
-  font-family: "Barlow", sans-serif;
+  font-family: var(--font-primary);
   font-size: 26px;
   font-weight: 500;
 
@@ -67,7 +67,7 @@ strong{
 ==========================================*/
 
 .nav__link {
-  font-family: "Barlow", sans-serif;
+  font-family: var(--font-primary);
   font-size: 1rem;
   font-weight: 500;
   color: var(--color-theme-one);
@@ -106,7 +106,7 @@ strong{
 }
 .offer__header, .service__header{
   text-align: center;
-  font-family: "Barlow", sans-serif;
+  font-family: var(--font-primary);
   font-size: 1.1rem;
   font-weight: 500;
 }
@@ -165,7 +165,7 @@ strong{
 .footer__article-header {
   margin-bottom: 20px;
   /* text-align: center; */
-  font-family: "Barlow", sans-serif;
+  font-family: var(--font-primary);
   font-size: 1.1rem;
   font-weight: 500;
   color: #dcdcdc;
@@ -422,7 +422,7 @@ strong{
   padding: 10px;
   background-color: #cecece;
   position: relative;
-  font-family: "Barlow", sans-serif;
+  font-family: var(--font-primary);
   font-size: 1.1rem;
   font-weight: 500;
   border-radius: 5px 5px 0 0;
