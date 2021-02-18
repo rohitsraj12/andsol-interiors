@@ -1,5 +1,5 @@
 <?php
-   $page_title = "Terms and Conditions";
+   $page_title = "privacy policy";
    $page_meta_key = "best interior design, best home interior design, best house interior design, modular kitchen designs, home decor design, small modular kitchen, best modular kitchen, latest modular kitchen designs, budget modular kitchen, best home designers, best interior for living room, best interior design for 3bhk flat, best indian interior designer, modern interior designers, living room best design, interior bedroom wall design, best australian interior designers, best budget interior design, ideal interior design for small houses, fallcelling design, dining hall designs, arch design for dining hall, hall partition designs between living dining";
    $page_meta_description = "";
     include("../private/required/header.php");
@@ -10,7 +10,7 @@
             <div class="container">
                 <div class="wrap__header py-4">
                     <h2 class="section__header">
-                        Terms and conditions
+                        Privacy policy
                     </h2>
                 </div>
                 <div class="terms__conditions-body p-5">
