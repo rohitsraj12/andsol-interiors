@@ -10,4 +10,9 @@ RewriteRule ^gallery$ gallery.php [L]
 RewriteRule ^services$ services.php [L]
 RewriteRule ^contact$ contact.php [L]
 RewriteRule ^faq$ faq.php [L]
+RewriteRule ^site_map$ site_map.php [L]
 RewriteRule ^privacy_policy$ privacy_policy.php [L]
+
+
+RewriteRule ^commercial_services$ commercial_services.php [L]
+RewriteRule ^residencial_services$ residencial_services.php [L]
