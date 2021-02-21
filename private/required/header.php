@@ -25,6 +25,8 @@
         <meta property="business:contact_data:region" content="Karnataka">
         <meta property="business:contact_data:postal_code" content="560025">
         <meta property="business:contact_data:country_name" content="India">
+        <!-- google -->
+        <meta name="google-site-verification" content="dbrMYSZb_7Ew-Ti8lK9REe6kV3r1nEmLmpbiZL5eM5Q" />
         <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
     <!-- stylesheet -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -45,7 +47,7 @@
                 <header>
                     <div class="header__brand">
                         <a href="index.php">
-                            <img src="img/brand/andsol_logo.png" alt="andsolinterior">
+                            <img src="img/brand/andsol_interiors_logo_black.png" alt="andsolinterior">
                         </a>
                     </div>
                     <!-- end header brand --> 
