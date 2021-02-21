@@ -9,7 +9,7 @@
         <div class="body__banner full__banner">
             <div class="wrap__banner">
                 <div class="banner__mobile">
-                    <img class="w-100" src="img/banner/andsol-interiors-bangalore-banner-1.jpg" alt="best interiors in bangalore andsol interiors">
+                    <img class="w-100" src="img/banner/other-banner-sm.jpg" alt="best interiors in bangalore andsol interiors">
                 </div>
                 <!-- end banner mobile -->
                 <div class="banner__desktop">
@@ -226,7 +226,7 @@
                                        
                                     </div>
                                     <div class="service__slider-button text-center">
-                                        <a href="service" class="hbtn hb-fill-middle hpad2 hbor1">View all services</a>
+                                        <a href="services" class="hbtn hb-fill-middle hpad2 hbor1">View all services</a>
                                     </div>
                                 </div>               
                               
