@@ -27,7 +27,7 @@
         <meta property="business:contact_data:country_name" content="India">
         <!-- google -->
         <meta name="google-site-verification" content="dbrMYSZb_7Ew-Ti8lK9REe6kV3r1nEmLmpbiZL5eM5Q" />
-        <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
+        <link rel="shortcut icon" type="image/png" href="img/fevicon.png" />
     <!-- stylesheet -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
