@@ -199,7 +199,7 @@
                                                 </h2>
                                             </header>
                                             <div class="home__service-body">
-                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, laboriosam necessitatibus. Ex, nisi natus? Ea ducimus non provident possimus, consequatur repellat aliquam placeat sed eum nobis molestiae laboriosam voluptatibus, nulla sequi consequuntur amet error optio quas asperiores vitae? Voluptatum, magnam.</p>
+                                                <p>We understand how important your home is to you. Our team of experts makes sure to turn your dream home into a reality. We provide some of the best interior designs that give your home the comfort that you deserve.</p>
                                             </div>
                                             <div class="service__slider-button"> 
                                                 <a href="services" class="">View More</a>
@@ -219,7 +219,7 @@
                                             </header>
 
                                             <div class="home__service-body">
-                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, laboriosam necessitatibus. Ex, nisi natus? Ea ducimus non provident possimus, consequatur repellat aliquam placeat sed eum nobis molestiae laboriosam voluptatibus, nulla sequi consequuntur amet error optio quas asperiores vitae? Voluptatum, magnam.</p>
+                                                <p>We design commercial interior spaces as per your requirement. With top-class design facilities and a team of qualified interior designers, we assure you that your commercial space looks exactly the way you wanted it.</p>
                                             </div>
                                             <div class="service__slider-button"> 
                                                 <a href="services" class="">View More</a>
