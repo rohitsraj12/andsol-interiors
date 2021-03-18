@@ -19,30 +19,36 @@
                         <ol class="carousel-indicators">
                             <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
                             <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-                            <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+                            <!-- <li data-target="#carouselExampleCaptions" data-slide-to="2"></li> -->
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                            <img src="img/banner/andsol-interiors-bangalore-banner-1.jpg" class="d-block w-100" alt="best interiors in bangalore andsol interiors">
-                            <div class="carousel-caption d-none d-md-block">
-                                <!-- <h5>First slide label</h5>
-                                <p>Some representative placeholder content for the first slide.</p> -->
+                                <img src="img/banner/andsol-residential-interiors-bangalore.jpg" class="d-block w-100" alt="best interiors in bangalore andsol interiors">
+                            <!-- <div class="carousel-caption d-none d-md-block">
+                                <h5>residential</h5>
+                                <p>We shape your homes the way you want</p>
+                            </div> -->
+                            <div class="banner__container">
+                                <div class="wrap__banner-container">
+                                    <h5>Residential interiors</h5>
+                                    <p>We shape your homes the way you want</p>
+                                </div>
                             </div>
                             </div>
                             <div class="carousel-item">
-                            <img src="img/banner/andsol-interiors-bangalore-banner-2.jpg" class="d-block w-100" alt="best interiors in bangalore andsol interiors">
-                            <div class="carousel-caption d-none d-md-block">
-                                <!-- <h5>Second slide label</h5>
-                                <p>Some representative placeholder content for the second slide.</p> -->
+                                <img src="img/banner/andsol-commercial-interiors-bangalore.jpg" class="d-block w-100" alt="best interiors in bangalore andsol interiors">
+                             <!--<div class="carousel-caption d-none d-md-block">
+                                <h5>Second slide label</h5>
+                                <p>Turning ideas into reality</p>
+                            </div> -->
+                            <div class="banner__container">
+                                <div class="wrap__banner-container">
+                                    <h5>commercial interiors</h5>
+                                    <p>Perfect interiors for the perfect commercial space</p>
+                                </div>
                             </div>
                             </div>
-                            <div class="carousel-item">
-                            <img src="img/banner/andsol-interiors-bangalore-banner-3.jpg" class="d-block w-100" alt="best interiors in bangalore andsol interiors">
-                            <div class="carousel-caption d-none d-md-block">
-                                <!-- <h5>Third slide label</h5>
-                                <p>Some representative placeholder content for the third slide.</p> -->
-                            </div>
-                            </div>
+                            
                         </div>
                         <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
