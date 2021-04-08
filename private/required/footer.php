@@ -87,9 +87,11 @@
                                                 <i class="fa fa-phone" aria-hidden="true"></i>
                                             </div>
                                             <div class="right__block">
-                                                <!-- <a class="right__block-phone" href="tel:9538832255" target="_blank">+91-9538832255</a>
-                                                <a class="right__block-phone" href="tel:9945869856" target="_blank">+91-9945869856</a> -->
-                                                <a class="right__block-phone" href="tel:8197837643" target="_blank">+91-8197837643</a>
+                                                <!-- 
+                                                    <a class="right__block-phone" href="tel:8197837643" target="_blank">+91-8197837643</a>
+                                                    <a class="right__block-phone" href="tel:9538832255" target="_blank">+91-9538832255</a> -->
+                                                <a class="right__block-phone" href="tel:9945869856" target="_blank">+91-9945869856</a>
+                                                
                                             </div>
                                         </li>
                                         <li class="footer__contact-list">
