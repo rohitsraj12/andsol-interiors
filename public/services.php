@@ -50,7 +50,7 @@
                                                 <p>We understand how important your home is to you. Our team of experts makes sure to turn your dream home into a reality. We provide some of the best interior designs that give your home the comfort that you deserve.</p>
                                             </div>
                                             <div class="service__slider-button"> 
-                                                <a href="residencial_services" class="">View More</a>
+                                                <a href="residential_services" class="">View More</a>
                                             </div>
                                         </article>
                                     </div>
