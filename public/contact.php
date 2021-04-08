@@ -69,8 +69,8 @@
                                                 <div class="">
                                                     <span class="mb-2 d-block span__header">Call us:</span>
                                                     <!-- <a class="contact__details-link" href="tel:9538832255" target="_blank">+91-9538832255</a>
-                                                    <a class="contact__details-link" href="tel:9945869856" target="_blank">+91-9945869856</a> -->
-                                                    <a class="contact__details-link" href="tel:8197837643" target="_blank">+91-8197837643</a>
+                                                    <a class="contact__details-link" href="tel:8197837643" target="_blank">+91-8197837643</a> -->
+                                                    <a class="contact__details-link" href="tel:9945869856" target="_blank">+91-9945869856</a>
                                                 </div>
                                                 
                                             </li>
