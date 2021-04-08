@@ -34,7 +34,7 @@
                         <div class="service__slider-wrap row pb-5">
                             <div class="col-sm-6">
                                     <figure >
-                                        <img src="img/services/residencial_interior_service_home.jpeg" alt="andsol residencial interior services">
+                                        <img src="img/services/residencial_interior_3D_interior.jpeg" alt="andsol residencial interior services">
                                     </figure>
                             </div>
                             <div class="col-sm-6">
@@ -74,7 +74,7 @@
                             </div>
                             <div class="col-sm-6">
                                 <figure >
-                                    <img src="img/services/commercial_interior_service_home.jpeg" alt="andsol commercial interior services">
+                                    <img src="img/services/residencial_interior_ceiling_interior.jpeg" alt="andsol commercial interior services">
                                 </figure>
                             </div>
                             
